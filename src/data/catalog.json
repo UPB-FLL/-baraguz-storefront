@@ -1,0 +1,3303 @@
+{
+ "importedAt": "2026-11-18T03:30:20.099Z",
+ "source": "https://baraguz.com",
+ "currency": "USD",
+ "products": [
+  {
+   "id": 15480598888696,
+   "handle": "baraguz-meno-feminine-harmony-blend-herbal-tea-w-raspberry-leaf-chamomile-ashwagandha-30-tea-bags",
+   "title": "Meno+ Menopause Tea",
+   "vendor": "Baraguz",
+   "type": "Tea & Infusions",
+   "tags": [
+    "Ashwagandha",
+    "Chamomile",
+    "Fennel",
+    "Lemon Balm",
+    "Marshmallow Root",
+    "Red Raspberry Leaf",
+    "Rose Petals",
+    "Slippery Elm Bark",
+    "Tulsi (Holy Basil)"
+   ],
+   "descriptionHtml": "<p><meta charset=\"utf-8\">A caffeine-free herbal tea to support you through perimenopause and menopause. One warm cup, morning or evening, for calm, rest and balance.</p>\n<p dir=\"ltr\"><span>✓ Red raspberry leaf and fennel for hormonal balance</span></p>\n<p dir=\"ltr\"><span>✓ Ashwagandha, chamomile and lemon balm for calm and sleep</span></p>\n<p dir=\"ltr\"><span>✓ Marshmallow root and slippery elm for soothing comfort</span></p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-meno-feminine-harmony-blend-herbal-tea-w-raspberry-leaf-chamomile-ashwagandha-30-tea-bags-3358397.jpg?v=1780230187",
+     "alt": "Meno+ Menopause Tea",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-meno-feminine-harmony-blend-herbal-tea-w-raspberry-leaf-chamomile-ashwagandha-30-tea-bags-9636266.jpg?v=1780230187",
+     "alt": "Meno+ Menopause Tea",
+     "width": 768,
+     "height": 1024
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-day-booster-28-day-detox-5417198.webp?v=1769044269",
+     "alt": "Meno+ Menopause Tea",
+     "width": 1024,
+     "height": 682
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 67970117566712,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 5995,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 15472582885624,
+   "handle": "baraguz-braint-brain-health-tea",
+   "title": "BrainT Brain Health Tea",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "herbalteas",
+    "shopbycategory"
+   ],
+   "descriptionHtml": "<p><meta charset=\"utf-8\">A daytime herbal tea for focus, memory and mental clarity. One warm cup in the morning or early afternoon.</p>\n<p dir=\"ltr\"><span>✓ Ginkgo, bacopa and gotu kola for focus and memory</span></p>\n<p dir=\"ltr\"><span>✓ Rhodiola, ashwagandha and maca to stay steady under stress</span></p>\n<p dir=\"ltr\"><span>✓ Green tea and guarana for a gentle daytime lift</span></p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-braint-brain-health-focus-and-memory-tea-30-servings-available-now-896520.jpg?v=1727799598",
+     "alt": "BrainT Brain Health Tea",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-braint-brain-health-focus-and-memory-tea-30-servings-available-now-318762.jpg?v=1727799598",
+     "alt": "BrainT Brain Health Tea",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-braint-brain-health-focus-and-memory-tea-30-servings-available-now-576844.jpg?v=1727799598",
+     "alt": "BrainT Brain Health Tea",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-braint-brain-health-focus-and-memory-tea-30-servings-available-now-289550.png?v=1727799598",
+     "alt": "BrainT Brain Health Tea",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-braint-brain-health-focus-and-memory-tea-30-servings-available-now-699735.jpg?v=1727799598",
+     "alt": "BrainT Brain Health Tea",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-braint-brain-health-focus-and-memory-tea-30-servings-available-now-670192.jpg?v=1727799598",
+     "alt": "BrainT Brain Health Tea",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-braint-brain-health-focus-and-memory-tea-30-servings-available-now-636599.jpg?v=1727799598",
+     "alt": "BrainT Brain Health Tea",
+     "width": 1201,
+     "height": 800
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 67944330952952,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 4999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 15472555491576,
+   "handle": "baraguz-diabet-diabetes-support-sugar-balance-tea-30-servings",
+   "title": "DiabeT Sugar Balance Tea",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "herbalteas",
+    "shopbycategory"
+   ],
+   "descriptionHtml": "<p><meta charset=\"utf-8\">A daily herbal tea to support healthy blood sugar balance. One warm cup after a meal, with no sugar or sweeteners.</p>\n<p dir=\"ltr\"><span>✓ Cinnamon bark and mulberry leaf for sugar balance</span></p>\n<p dir=\"ltr\"><span>✓ Hibiscus, sea buckthorn and rooibos for antioxidants</span></p>\n<p dir=\"ltr\"><span>✓ Ginger and chamomile for after-meal comfort</span></p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-diabet-diabetes-support-sugar-balance-tea-30-servings-available-now-811874.jpg?v=1727800097",
+     "alt": "DiabeT Sugar Balance Tea",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-diabet-diabetes-support-sugar-balance-tea-30-servings-available-now-552813.jpg?v=1727799560",
+     "alt": "DiabeT Sugar Balance Tea",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-diabet-diabetes-support-sugar-balance-tea-30-servings-available-now-975790.jpg?v=1727799560",
+     "alt": "DiabeT Sugar Balance Tea",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-diabet-diabetes-support-sugar-balance-tea-30-servings-available-now-860000.png?v=1727799560",
+     "alt": "DiabeT Sugar Balance Tea",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-diabet-diabetes-support-sugar-balance-tea-30-servings-available-now-755891.jpg?v=1727799560",
+     "alt": "DiabeT Sugar Balance Tea",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-diabet-diabetes-support-sugar-balance-tea-30-servings-available-now-981327.jpg?v=1727799560",
+     "alt": "DiabeT Sugar Balance Tea",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-diabet-diabetes-support-sugar-balance-tea-30-servings-available-now-777609.jpg?v=1727799560",
+     "alt": "DiabeT Sugar Balance Tea",
+     "width": 1201,
+     "height": 800
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 67944213414136,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 4999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 15470692499704,
+   "handle": "baraguz-premium-bovine-collagen-peptides-type-i-iii-collagen-powder",
+   "title": "Bovine Collagen Peptides",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "collagen"
+   ],
+   "descriptionHtml": "<p>Unflavored collagen peptides to support your skin, hair, nails and joints. One scoop a day in any hot or cold drink.</p>\n<p dir=\"ltr\"><span>✓ Types I and III collagen for skin, hair and nails</span></p>\n<p dir=\"ltr\"><span>✓ Hyaluronic acid for skin and joint hydration</span></p>\n<p dir=\"ltr\"><span>✓ Vitamin C to help your body form its own collagen</span></p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-premium-bovine-collagen-peptides-w-hyaluronic-acid-vitamin-c-type-i-iii-collagen-powder-864360.jpg?v=1727799562",
+     "alt": "Bovine Collagen Peptides",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-premium-bovine-collagen-peptides-w-hyaluronic-acid-vitamin-c-type-i-iii-collagen-powder-605045.jpg?v=1727799562",
+     "alt": "Bovine Collagen Peptides",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-premium-bovine-collagen-peptides-w-hyaluronic-acid-vitamin-c-type-i-iii-collagen-powder-973553.jpg?v=1727799562",
+     "alt": "Bovine Collagen Peptides",
+     "width": 1500,
+     "height": 1500
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-premium-bovine-collagen-peptides-w-hyaluronic-acid-vitamin-c-type-i-iii-collagen-powder-468533.jpg?v=1727799562",
+     "alt": "Bovine Collagen Peptides",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 67936615006456,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 4999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 15401068953848,
+   "handle": "baraguz-slimt-night-cleanse",
+   "title": "SlimT Night Cleanse",
+   "vendor": "Baraguz SlimT",
+   "type": "Tea & Infusions",
+   "tags": [
+    "28day",
+    "detox"
+   ],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<p><meta charset=\"utf-8\"><meta charset=\"utf-8\">A calming 28-night herbal tea for occasional constipation and bloating. One warm cup after dinner.<br></p>\n<p dir=\"ltr\"><span>✓ Chamomile, lavender and jasmine to help you unwind</span></p>\n<p dir=\"ltr\"><span>✓ Peppermint and fennel for after-dinner comfort</span></p>\n<p dir=\"ltr\"><span>✓ <meta charset=\"utf-8\">Senna leaf for relief from occasional constipation</span></p>\n</div>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-night-cleanse-28-day-detox-783313.jpg?v=1727799562",
+     "alt": "SlimT Night Cleanse",
+     "width": 2048,
+     "height": 1610
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-night-cleanse-28-day-detox-890328.jpg?v=1727799562",
+     "alt": "SlimT Night Cleanse",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-night-cleanse-28-day-detox-590923.jpg?v=1727799562",
+     "alt": "SlimT Night Cleanse",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-night-cleanse-28-day-detox-561321.jpg?v=1727799562",
+     "alt": "SlimT Night Cleanse",
+     "width": 1600,
+     "height": 1066
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-night-cleanse-28-day-detox-231096.jpg?v=1727799562",
+     "alt": "SlimT Night Cleanse",
+     "width": 1600,
+     "height": 1066
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-night-cleanse-28-day-detox-721704.jpg?v=1727799562",
+     "alt": "SlimT Night Cleanse",
+     "width": 1600,
+     "height": 1066
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-night-cleanse-28-day-detox-462339.jpg?v=1727799562",
+     "alt": "SlimT Night Cleanse",
+     "width": 1600,
+     "height": 1066
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-night-cleanse-28-day-detox-342220.jpg?v=1727799562",
+     "alt": "SlimT Night Cleanse",
+     "width": 2048,
+     "height": 1365
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-night-cleanse-28-day-detox-370303.jpg?v=1727799562",
+     "alt": "SlimT Night Cleanse",
+     "width": 1638,
+     "height": 2048
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 67605678555384,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 5499,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": "0"
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9765465194744,
+   "handle": "baraguz-thyroid-metabolic-balance-herbal-tea-w-ashwagandha-tulsi-lemon-balm-30-pyramid-tea-bags",
+   "title": "Baraguz Thyroid+ Metabolic Balance Herbal Tea w/ Ashwagandha, Tulsi & Lemon Balm | 30 Pyramid Tea Bags",
+   "vendor": "Baraguz Collection",
+   "type": "Tea & Infusions",
+   "tags": [
+    "30 tea bags",
+    "adaptogen tea",
+    "adaptogenic herbs",
+    "adrenal support tea",
+    "anti inflammatory tea",
+    "ashwagandha tea",
+    "botanical tea",
+    "caffeine free tea",
+    "calm tea",
+    "chamomile tea",
+    "daily wellness tea",
+    "dandelion root tea",
+    "detox tea",
+    "energy balance tea",
+    "evening tea",
+    "fennel tea",
+    "ginger tea",
+    "grounding tea",
+    "gut health tea",
+    "herbal supplement",
+    "herbal tea",
+    "herbal wellness blend",
+    "holistic wellness",
+    "hormone balance tea",
+    "immune support tea",
+    "lemon balm tea",
+    "liver support tea",
+    "metabolic balance tea",
+    "metabolic wellness",
+    "metabolism tea",
+    "moringa leaf tea",
+    "moringa tea",
+    "morning tea",
+    "natural herbal tea",
+    "natural wellness",
+    "nettle leaf tea",
+    "nettle tea",
+    "pyramid tea bags",
+    "relaxation tea",
+    "schisandra berry tea",
+    "self care tea",
+    "stress relief tea",
+    "Thyroid Plus",
+    "thyroid support tea",
+    "thyroid wellness",
+    "tulsi tea",
+    "turmeric tea",
+    "wellness ritual",
+    "women's wellness tea"
+   ],
+   "descriptionHtml": "<p>BARAGUZ THYROID+ Metabolic Balance Herbal Tea  30 Pyramid Tea Bags</p>\n<p>Support your everyday wellness from the inside out. Baraguz Thyroid+ Metabolic Balance is a thoughtfully crafted herbal tea blend designed to support daily balance, comfort, and relaxation as part of your self-care routine.</p>\n<p>Made with a powerful botanical blend of ashwagandha root, tulsi, lemon balm, nettle leaf, moringa leaf, dandelion root, schisandra berry, ginger root, turmeric, fennel, and chamomile  each herb chosen for its role in supporting a balanced, wellness-focused lifestyle.</p>\n<p>✨ 30 pyramid tea bags<br>✨ Herbal wellness blend<br>✨ Crafted for daily balance &amp; comfort<br>✨ Supports a calming daily tea ritual<br>✨ Perfect for morning or evening use<br>✨ Smooth botanical blend with warm, earthy herbal notes<br>✨ Made with ashwagandha, tulsi, lemon balm, moringa &amp; more<br>✨ No artificial ingredients  pure botanical goodness</p>\n<p>HOW TO USE<br>Drink as needed as part of your daily wellness routine.</p>\n<p>1  Bring fresh water to a boil<br>2  Pour 10 oz of hot water over one tea bag in a cup<br>3  Cover and steep for 3–5 minutes<br>4  Allow to slightly cool before drinking</p>\n<p>Drink warm and enjoy moments of calm, balance, and daily nourishment. 🍵</p>\n<p>These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease.</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-thyroid-metabolic-balance-herbal-tea-w-ashwagandha-tulsi-lemon-balm-30-pyramid-tea-bags-4909042.jpg?v=1780230187",
+     "alt": "Baraguz Thyroid+ Metabolic Balance Herbal Tea w/ Ashwagandha, Tulsi & Lemon Balm | 30 Pyramid Tea Bags",
+     "width": 1254,
+     "height": 1254
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-thyroid-metabolic-balance-herbal-tea-w-ashwagandha-tulsi-lemon-balm-30-pyramid-tea-bags-8932145.jpg?v=1780230187",
+     "alt": "Baraguz Thyroid+ Metabolic Balance Herbal Tea w/ Ashwagandha, Tulsi & Lemon Balm | 30 Pyramid Tea Bags",
+     "width": 768,
+     "height": 1024
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-day-booster-28-day-detox-5417198.webp?v=1769044269",
+     "alt": "Baraguz Thyroid+ Metabolic Balance Herbal Tea w/ Ashwagandha, Tulsi & Lemon Balm | 30 Pyramid Tea Bags",
+     "width": 1024,
+     "height": 682
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 48701312401656,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 5995,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7483164754168,
+   "handle": "baraguz-slimt-day-booster-28-day-detox",
+   "title": "Baraguz SlimT Day Booster (28 day detox)",
+   "vendor": "Baraguz SlimT",
+   "type": "Tea & Infusions",
+   "tags": [
+    "28day",
+    "detox",
+    "shopbycategory"
+   ],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">INGREDIENTS</a></li>\n<li><a href=\"#tab2\">HOW TO USE</a></li>\n<li><a href=\"#tab3\">DECLARATIONS </a></li>\n<li><a href=\"#tab4\">BENEFITS </a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p><i>Serving Size 1 Tea Bag (Makes 10 fl oz) / Proprietary Blend of Herbs (3,000 mg)</i></p>\n<ul>\n<li>\n<meta charset=\"utf-8\">Green Tea</li>\n<li>Pu-erh Tea</li>\n<li>Oolong Tea</li>\n<li>Lotus Leaves</li>\n<li>Goji Berries</li>\n<li>Yerba Mate</li>\n<li>Star Anise</li>\n<li>Ginger Pieces</li>\n<li>Dandelion</li>\n<li>Lemon Pieces</li>\n<li>Cloves</li>\n<li>Senna Leaves</li>\n<li>Ginseng (Panax)</li>\n<li>Lemongrass</li>\n<li>Gynostemma Pentaphyllum<br>\n</li>\n</ul>\n<p>Each serving contains insignificant amounts of calories, saturated fat, trans fat, cholesterol, carbohydrates, dietary fiber, sugars, calcium, iron, protein, sodium. and potassium.</p>\n</li>\n<li id=\"tab2\">\n<p>Drink as needed, 1-2 hours after breakfast, lunch or dinner, while it’s still hot.</p>\n<ul>\n<li>1- Bring fresh water to a boil</li>\n<li>2- Pour (10 oz) of water over tea bag in a cup</li>\n<li>3- Cover and steep for 3-5 minutes</li>\n<li>4- Allow to slightly cool before drinking</li>\n</ul>\n<br>\n<ul class=\"steps-imgs\">\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\"></li>\n</ul>\n</li>\n<li id=\"tab3\">\n<p>Consult your licenses healthcare provider prior to use if you are pregnant, taking any medication or if you have any medical conditions.<br><br>All listed statements have not been evaluation by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease / medical conditions. <br>Recommended for adults only. <br><br>Formulated without :<br>GMOs / Gluten / Sugar or Sweeteners / Artificial Flavors or Dyes / Artificial Ingredients or Preservatives / Animal Products / Fish / Tree Nuts / Soy / Wheat or Dairy Products</p>\n</li>\n<li id=\"tab4\">\n<p>Helps Boost Brainpower</p>\n<p>Promotes Liver and Kidney Health</p>\n<p>Helps Increase Blood Flow / Circulation</p>\n<p>Stimulates Mental Alertness</p>\n<p>Helps reduce Cognitive Decline</p>\n<p>May Improve Memory and Mood</p>\n<p>Helps treat Headaches / Migraines</p>\n<p>High in Antioxidants</p>\n<p> </p>\n</li>\n</ul>\n</div>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-day-booster-28-day-detox-2435049.webp?v=1769044269",
+     "alt": "Baraguz SlimT Day Booster (28 day detox)",
+     "width": 1024,
+     "height": 753
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-day-booster-28-day-detox-3102913.webp?v=1769044269",
+     "alt": "Baraguz SlimT Day Booster (28 day detox)",
+     "width": 1024,
+     "height": 753
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-day-booster-28-day-detox-5417198.webp?v=1769044269",
+     "alt": "Baraguz SlimT Day Booster (28 day detox)",
+     "width": 1024,
+     "height": 682
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-day-booster-28-day-detox-1493084.webp?v=1769044270",
+     "alt": "Baraguz SlimT Day Booster (28 day detox)",
+     "width": 1024,
+     "height": 682
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-day-booster-28-day-detox-4591664.webp?v=1769044270",
+     "alt": "Baraguz SlimT Day Booster (28 day detox)",
+     "width": 1024,
+     "height": 682
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 47813083300088,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 5400,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": "Day Booster-1"
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9372023226616,
+   "handle": "baraguz-eia-organic-growth-glow-ritual-bundle",
+   "title": "Baraguz EIA Organic Growth & Glow Ritual Bundle",
+   "vendor": "Baraguz SlimT",
+   "type": "Tea & Infusions",
+   "tags": [],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<ul class=\"tabs\">\n<li>\n  <a class=\"active\" href=\"#tab1\" style=\"text-transform: uppercase !important;\">what's inside</a>\n</li>\n<li>\n  <a href=\"#tab2\" style=\"text-transform: uppercase !important;\">Ideal For</a>\n</li>\n</ul>\n\n<ul class=\"tabs-content\">\n<li id=\"tab1\" style=\"list-style-type: none;\">\n<ul style=\"padding-left:0px;\">\n<li style=\"list-style-type: none;\">1- Baraguz Organic Nail Growth Oil</li>\n        <li style=\"list-style-type: none; \">2- Baraguz EIA Organic Elixir Oil &amp; Serum Duo</li>\n        <li style=\"list-style-type: none;\">3- Baraguz EIA Bamboo Wood Paddle Hair Brush</li>\n        <li style=\"list-style-type: none; \">4- Baraguz EIA Bamboo Wide Tooth Detangling Comb</li>\n        <li style=\"list-style-type: none; \">5- Baraguz EIA Bamboo Scalp Massager</li>\n</ul>\n</li>\n\n<li id=\"tab2\" style=\"list-style-type: none; \">\n<ul style=\"padding-left:0px;\">\n<li style=\"list-style-type: none; \">1- Dry or brittle nails</li>\n<li style=\"list-style-type: none; \">2- Dull or fragile hair</li>\n<li style=\"list-style-type: none; \">3- Scalp care and relaxation</li>\n<li style=\"list-style-type: none; \">4- Eco-conscious beauty routines</li>\n</ul>\n</li>\n</ul>\n</div>\n",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-eia-organic-growth-glow-ritual-bundle-8407944.jpg?v=1768381208",
+     "alt": "Baraguz EIA Organic Growth & Glow Ritual Bundle",
+     "width": 2048,
+     "height": 1366
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-eia-organic-growth-glow-ritual-bundle-3732480.jpg?v=1768381208",
+     "alt": "Baraguz EIA Organic Growth & Glow Ritual Bundle",
+     "width": 1024,
+     "height": 684
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-eia-organic-growth-glow-ritual-bundle-6109782.jpg?v=1768381208",
+     "alt": "Baraguz EIA Organic Growth & Glow Ritual Bundle",
+     "width": 1024,
+     "height": 684
+    }
+   ],
+   "options": [
+    {
+     "name": "Select quantity",
+     "values": [
+      "1× Nail Growth Elixir",
+      "2× Nail Growth Elixir (Save)",
+      "3× Nail Growth Elixir (Best Value )"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 47813176393976,
+     "title": "1× Nail Growth Elixir",
+     "options": [
+      "1× Nail Growth Elixir"
+     ],
+     "price": 12995,
+     "compareAtPrice": 16100,
+     "available": true,
+     "sku": null
+    },
+    {
+     "id": 47812982997240,
+     "title": "2× Nail Growth Elixir (Save)",
+     "options": [
+      "2× Nail Growth Elixir (Save)"
+     ],
+     "price": 14000,
+     "compareAtPrice": 17700,
+     "available": true,
+     "sku": null
+    },
+    {
+     "id": 47812983030008,
+     "title": "3× Nail Growth Elixir (Best Value )",
+     "options": [
+      "3× Nail Growth Elixir (Best Value )"
+     ],
+     "price": 15000,
+     "compareAtPrice": 18500,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9372093513976,
+   "handle": "baraguz-organic-nail-growth-elixir",
+   "title": "Baraguz Organic Nail Growth Elixir",
+   "vendor": "Baraguz SlimT",
+   "type": "Tea & Infusions",
+   "tags": [],
+   "descriptionHtml": "<div class=\"tabs-section\">\n  <ul class=\"tabs\">\n    <li><a href=\"#tab1\" class=\"active\">INGREDIENTS</a></li>\n    <li><a href=\"#tab2\">HOW TO USE</a></li>\n  </ul>\n\n  <ul class=\"tabs-content\">\n    <li id=\"tab1\" style=\"list-style-type: none;\">\n      <ul style=\"padding-left:0px;\">\n    <li style=\"list-style-type: none;\">1- Simmondsia Chinensis (Jojoba) Seed Oil</li>\n  <li style=\"list-style-type: none;\">2- Prunus Amygdalus Dulcis (Sweet Almond) Oil</li>\n  <li style=\"list-style-type: none;\">3- Ricinus Communis (Castor) Seed Oil</li>\n  <li style=\"list-style-type: none;\">4- Caprylic/Capric Triglyceride (Fractionated Coconut Oil)</li>\n  <li style=\"list-style-type: none;\">5- Persea Gratissima (Avocado) Oil</li>\n  <li style=\"list-style-type: none;\">6- Tocopherol (Vitamin E)</li>\n  <li style=\"list-style-type: none;\">7- Lavandula Angustifolia (Lavender) Oil</li>\n  <li style=\"list-style-type: none;\">8- Rosmarinus Officinalis (Rosemary) Leaf Oil</li>\n  <li style=\"list-style-type: none;\">9- Melaleuca Alternifolia (Tea Tree) Leaf Oil</li>\n  <li style=\"list-style-type: none;\">10- Biotin</li>\n  <li style=\"list-style-type: none;\">11- Equisetum Arvense (Horsetail) Extract</li>\n  <li style=\"list-style-type: none;\">12- Azadirachta Indica (Neem) Seed Oil</li>\n  <li style=\"list-style-type: none;\">13- Allium Sativum (Garlic) Oil</li>\n  <li style=\"list-style-type: none;\">14- Hippophae Rhamnoides (Sea Buckthorn) Oil</li>\n  <li style=\"list-style-type: none;\">15- Cucurbita Pepo (Pumpkin) Seed Oil</li>\n  <li style=\"list-style-type: none;\">16- Daucus Carota Sativa (Carrot) Seed Oil</li>\n  <li style=\"list-style-type: none;\">17- Mentha Piperita (Peppermint) Oil</li>\n  <li style=\"list-style-type: none;\">18- Citrus Limon (Lemon) Peel Oil</li>\n  <li style=\"list-style-type: none;\">19- Hydrolyzed Collagen</li>\n  <li style=\"list-style-type: none;\">20- Magnesium Chloride (Magnesium Oil)</li>\n  <li style=\"list-style-type: none;\">21- Methylsulfonylmethane (MSM)</li>\n  <li style=\"list-style-type: none;\">22- Silica</li>\n  <li style=\"list-style-type: none;\">23- Botanical Extract Blend</li>\n      </ul>\n    </li>\n\n    <li id=\"tab2\">\n      <p>Apply daily to nails and cuticles. Massage gently until fully absorbed.</p>\n      <p>For external use only.</p>\n    </li>\n  </ul>\n</div>\n",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-organic-nail-growth-elixir-3995507.jpg?v=1768381208",
+     "alt": "Baraguz Organic Nail Growth Elixir",
+     "width": 684,
+     "height": 1024
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-organic-nail-growth-elixir-4971903.jpg?v=1768381208",
+     "alt": "Baraguz Organic Nail Growth Elixir",
+     "width": 1024,
+     "height": 684
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-organic-nail-growth-elixir-8038891.jpg?v=1768381208",
+     "alt": "Baraguz Organic Nail Growth Elixir",
+     "width": 1024,
+     "height": 684
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-organic-nail-growth-elixir-7321746.jpg?v=1768381208",
+     "alt": "Baraguz Organic Nail Growth Elixir",
+     "width": 1024,
+     "height": 684
+    }
+   ],
+   "options": [
+    {
+     "name": "Select quantity ",
+     "values": [
+      "Pack of 1",
+      "Pack of 2",
+      "Pack of 3"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 47813169512696,
+     "title": "Pack of 1",
+     "options": [
+      "Pack of 1"
+     ],
+     "price": 1499,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    },
+    {
+     "id": 47813107679480,
+     "title": "Pack of 2",
+     "options": [
+      "Pack of 2"
+     ],
+     "price": 2700,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    },
+    {
+     "id": 47813107712248,
+     "title": "Pack of 3",
+     "options": [
+      "Pack of 3"
+     ],
+     "price": 3500,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9239042687224,
+   "handle": "postpartum-recovery-wellness-bundle-collagen-hair-growth-oil-focus-detox",
+   "title": "Postpartum Recovery & Wellness Bundle - Collagen, Hair Growth Oil, Focus & Detox",
+   "vendor": "Baraguz ",
+   "type": "",
+   "tags": [],
+   "descriptionHtml": "",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/postpartum-recovery-wellness-bundle-collagen-hair-growth-oil-focus-detox-6761797.jpg?v=1759361380",
+     "alt": "Postpartum Recovery & Wellness Bundle - Collagen, Hair Growth Oil, Focus & Detox",
+     "width": 1600,
+     "height": 900
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 46940201025784,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 32000,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9239041376504,
+   "handle": "glow-grow-hair-growth-bundle-with-collagen-kit",
+   "title": "Glow & Grow Hair Growth Bundle With Collagen Kit",
+   "vendor": "Baraguz ",
+   "type": "",
+   "tags": [],
+   "descriptionHtml": "",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/glow-grow-hair-growth-bundle-with-collagen-kit-5978803.jpg?v=1759361380",
+     "alt": "Glow & Grow Hair Growth Bundle With Collagen Kit",
+     "width": 1600,
+     "height": 900
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 46940170486008,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 15500,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9239038034168,
+   "handle": "collagen-pms-relief-bundle-menstrual-support-tea-beauty-boost",
+   "title": "Collagen & PMS Relief Bundle - Menstrual support tea + Beauty Boost",
+   "vendor": "Baraguz ",
+   "type": "",
+   "tags": [],
+   "descriptionHtml": "",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/collagen-pms-relief-bundle-menstrual-support-tea-beauty-boost-7265744.jpg?v=1759361379",
+     "alt": "Collagen & PMS Relief Bundle - Menstrual support tea + Beauty Boost",
+     "width": 1600,
+     "height": 900
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 46940076343544,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 9500,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9239031120120,
+   "handle": "brain-focus-tea-bundle-cognitive-support-mental-clarity",
+   "title": "Brain & Focus Tea Bundle - Cognitive Support & Mental Clarity",
+   "vendor": "Baraguz ",
+   "type": "",
+   "tags": [],
+   "descriptionHtml": "",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/brain-focus-tea-bundle-cognitive-support-mental-clarity-1949986.jpg?v=1759361379",
+     "alt": "Brain & Focus Tea Bundle - Cognitive Support & Mental Clarity",
+     "width": 1600,
+     "height": 900
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 46939940061432,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 9500,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9235400589560,
+   "handle": "baraguz-gut-health-plus-bundle",
+   "title": "Baraguz Gut Health Plus Bundle",
+   "vendor": "Baraguz ",
+   "type": "",
+   "tags": [],
+   "descriptionHtml": "",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-gut-health-plus-bundle-8285061.jpg?v=1760189921",
+     "alt": "Baraguz Gut Health Plus Bundle",
+     "width": 1600,
+     "height": 900
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 46923646664952,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 8000,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9235387056376,
+   "handle": "bundle-with-eia-hair-oil-hair-serum-and-hair-massager-comb-and-brush-set",
+   "title": "Baraguz - EIA Hair Growth Oil, Hair Repair Serum and Bamboo Hair Massager, Comb and Brush bundle",
+   "vendor": "Baraguz ",
+   "type": "",
+   "tags": [],
+   "descriptionHtml": "",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-eia-hair-growth-oil-hair-repair-serum-and-bamboo-hair-massager-comb-and-brush-bundle-8719118.jpg?v=1759195869",
+     "alt": "Baraguz - EIA Hair Growth Oil, Hair Repair Serum and Bamboo Hair Massager, Comb and Brush bundle",
+     "width": 1366,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-eia-hair-growth-oil-hair-repair-serum-and-bamboo-hair-massager-comb-and-brush-bundle-5681244.jpg?v=1759361376",
+     "alt": "Baraguz - EIA Hair Growth Oil, Hair Repair Serum and Bamboo Hair Massager, Comb and Brush bundle",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-eia-hair-growth-oil-hair-repair-serum-and-bamboo-hair-massager-comb-and-brush-bundle-7603805.jpg?v=1759361376",
+     "alt": "Baraguz - EIA Hair Growth Oil, Hair Repair Serum and Bamboo Hair Massager, Comb and Brush bundle",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-eia-hair-growth-oil-hair-repair-serum-and-bamboo-hair-massager-comb-and-brush-bundle-4965063.jpg?v=1759271410",
+     "alt": "Baraguz - EIA Hair Growth Oil, Hair Repair Serum and Bamboo Hair Massager, Comb and Brush bundle",
+     "width": 2048,
+     "height": 1366
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-eia-hair-growth-oil-hair-repair-serum-and-bamboo-hair-massager-comb-and-brush-bundle-9607541.jpg?v=1759271410",
+     "alt": "Baraguz - EIA Hair Growth Oil, Hair Repair Serum and Bamboo Hair Massager, Comb and Brush bundle",
+     "width": 2048,
+     "height": 1366
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-eia-hair-growth-oil-hair-repair-serum-and-bamboo-hair-massager-comb-and-brush-bundle-6659822.jpg?v=1759271410",
+     "alt": "Baraguz - EIA Hair Growth Oil, Hair Repair Serum and Bamboo Hair Massager, Comb and Brush bundle",
+     "width": 2048,
+     "height": 1366
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-eia-hair-growth-oil-hair-repair-serum-and-bamboo-hair-massager-comb-and-brush-bundle-8958327.jpg?v=1759271410",
+     "alt": "Baraguz - EIA Hair Growth Oil, Hair Repair Serum and Bamboo Hair Massager, Comb and Brush bundle",
+     "width": 2048,
+     "height": 1366
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-eia-hair-growth-oil-hair-repair-serum-and-bamboo-hair-massager-comb-and-brush-bundle-9061175.jpg?v=1759271410",
+     "alt": "Baraguz - EIA Hair Growth Oil, Hair Repair Serum and Bamboo Hair Massager, Comb and Brush bundle",
+     "width": 1366,
+     "height": 2048
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 46923597840632,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 13000,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9232268558584,
+   "handle": "eia-bamboo-comb",
+   "title": "Baraguz - EIA Bamboo Hair Comb",
+   "vendor": "Baraguz ",
+   "type": "",
+   "tags": [],
+   "descriptionHtml": "",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-bamboo-comb-8939453.jpg?v=1758948024",
+     "alt": "Baraguz - EIA Bamboo Hair Comb",
+     "width": 1600,
+     "height": 1066
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-bamboo-comb-5661363.jpg?v=1758948024",
+     "alt": "Baraguz - EIA Bamboo Hair Comb",
+     "width": 1600,
+     "height": 1068
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-bamboo-comb-8138794.jpg?v=1758948024",
+     "alt": "Baraguz - EIA Bamboo Hair Comb",
+     "width": 1600,
+     "height": 1068
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 46903550738680,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 1200,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9232262660344,
+   "handle": "eia-collagen-and-ha-lip-and-eye-mask",
+   "title": "Baraguz - EIA Collagen and HA Lip and Eye Mask",
+   "vendor": "Baraguz ",
+   "type": "",
+   "tags": [],
+   "descriptionHtml": "",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-collagen-and-ha-lip-and-eye-mask-4621249.jpg?v=1758948024",
+     "alt": "Baraguz - EIA Collagen and HA Lip and Eye Mask",
+     "width": 1600,
+     "height": 1068
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-collagen-and-ha-lip-and-eye-mask-9294747.jpg?v=1758948024",
+     "alt": "Baraguz - EIA Collagen and HA Lip and Eye Mask",
+     "width": 1600,
+     "height": 1068
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-collagen-and-ha-lip-and-eye-mask-9988803.jpg?v=1758948024",
+     "alt": "Baraguz - EIA Collagen and HA Lip and Eye Mask",
+     "width": 1600,
+     "height": 1068
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 46903499915512,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3800,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9232256729336,
+   "handle": "eia-bamboo-scalp-massager",
+   "title": "Bamboo - EIA Bamboo and Silicone Scalp Massager",
+   "vendor": "Baraguz ",
+   "type": "",
+   "tags": [],
+   "descriptionHtml": "",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-bamboo-scalp-massager-9732255.jpg?v=1758948024",
+     "alt": "Bamboo - EIA Bamboo and Silicone Scalp Massager",
+     "width": 2048,
+     "height": 1366
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-bamboo-scalp-massager-8028018.jpg?v=1758948024",
+     "alt": "Bamboo - EIA Bamboo and Silicone Scalp Massager",
+     "width": 1366,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-bamboo-scalp-massager-7551031.jpg?v=1758948024",
+     "alt": "Bamboo - EIA Bamboo and Silicone Scalp Massager",
+     "width": 2048,
+     "height": 1366
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 46903448928504,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 2000,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9232251158776,
+   "handle": "eia-bamboo-paddle-hair-brush",
+   "title": "Baraguz - EIA Bamboo Paddle Hair Protective Brush",
+   "vendor": "Baraguz ",
+   "type": "",
+   "tags": [],
+   "descriptionHtml": "",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-bamboo-paddle-hair-brush-6304968.jpg?v=1758948024",
+     "alt": "Baraguz - EIA Bamboo Paddle Hair Protective Brush",
+     "width": 2048,
+     "height": 1366
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-bamboo-paddle-hair-brush-8690636.jpg?v=1758948024",
+     "alt": "Baraguz - EIA Bamboo Paddle Hair Protective Brush",
+     "width": 1366,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-bamboo-paddle-hair-brush-8340297.jpg?v=1758948024",
+     "alt": "Baraguz - EIA Bamboo Paddle Hair Protective Brush",
+     "width": 2048,
+     "height": 1366
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 46903391879416,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 1400,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 9232244343032,
+   "handle": "bundle-of-eia-bamboo-scalp-massager-paddle-brush-and-comb",
+   "title": "Bundle of EIA Bamboo Scalp Massager, Paddle Brush and Comb",
+   "vendor": "Baraguz ",
+   "type": "",
+   "tags": [],
+   "descriptionHtml": "",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/bundle-of-eia-bamboo-scalp-massager-paddle-brush-and-comb-6297514.jpg?v=1758948024",
+     "alt": "Bundle of EIA Bamboo Scalp Massager, Paddle Brush and Comb",
+     "width": 2048,
+     "height": 1366
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/bundle-of-eia-bamboo-scalp-massager-paddle-brush-and-comb-9450960.jpg?v=1758948026",
+     "alt": "Bundle of EIA Bamboo Scalp Massager, Paddle Brush and Comb",
+     "width": 1366,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/bundle-of-eia-bamboo-scalp-massager-paddle-brush-and-comb-1378255.jpg?v=1758948024",
+     "alt": "Bundle of EIA Bamboo Scalp Massager, Paddle Brush and Comb",
+     "width": 2048,
+     "height": 1366
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 46903340007672,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 4200,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 8797928816888,
+   "handle": "eia-organic-scalp-treatment-elixir-oil-hair-growth",
+   "title": "EIA - Organic Scalp Treatment Elixir Oil (Hair Growth)",
+   "vendor": "Baraguz Collection",
+   "type": "",
+   "tags": [
+    "herbalteas",
+    "shopbycategory"
+   ],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<ul class=\"tabs\">\n<li><a class=\"active\" href=\"#tab1\">INGREDIENTS</a></li>\n<li><a href=\"#tab2\">HOW TO USE</a></li>\n<li><a href=\"#tab3\">DECLARATIONS </a></li>\n<li><a href=\"#tab4\">BENEFITS </a></li>\n</ul>\n<ul data-start=\"1986\" data-end=\"2133\">\n<li class=\"active\" id=\"tab1\">\n<p><i>Organic Castor Seed Oil, Organic Grape Seed Oil, Organic Tea Tree Oil, Organic Lavander oil, Organic Jojoba Oil, Organic Argan Oil, Organic Almond Oil, Organic Coconut Oil, Organic Olive Oil, Organic Avocado Oil, Organic Wheat Germ Oil, Organic Cedarwood Oil, Organic Carrot Seed Oil, Organic Vitamin E Oil, Organic Horsetail, Organic Nettle, Organic Ginseng, Organic Peppermint, Organic Rosemary, Organic Thyme, Organic Willow Bark, Organic Saw Palmetto, Organic Fenugreek, Organic Cinnamon, Organic Cloves, Organic Shallots, Organic Garlic, Organic Fenugreek.</i><i></i></p>\n<ul data-start=\"1986\" data-end=\"2133\">\n<li class=\"active\">\n<p><i></i><i></i>This hair oil blend helps moisturize, strengthen, and nourish your hair. It promotes growth, reduces thinning, and tackles scalp issues like dandruff and dryness. Regular use can make your hair stronger, shinier, and less prone to breakage. The oils and plant extracts also stimulate hair follicles, improve circulation, and reduce inflammation, making it an effective hair care solution. </p>\n</li>\n<li class=\"active\">\n<p>The blend includes oils like castor, rosemary, peppermint, and saw palmetto, which support circulation, hair growth, and follicle health—helping with conditions like alopecia areata or pattern baldness. Ginseng, nettles, and horsetail provide nutrients and improve scalp circulation for better hair regrowth. Vitamin E nourishes the scalp and hair, while tea tree and cedarwood oils reduce inflammation and fight infections for a healthier scalp.</p>\n</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<p> </p>\n<ul data-start=\"1986\" data-end=\"2133\">\n<li id=\"tab2\">\n<p>1- Divide your hair into sections to ensure a thorough application. Start by applying a small amount of oil to your scalp, using your fingertips to massage it in circular motions.</p>\n<p>2- Then, work the oil through the lengths of your hair. spend a few minutes massaging the oil into your scalp to improve blood circulation and promote hair growth. Be gentle but firm in your movements.</p>\n<p>3- Wrap your hair to create heat, which promotes better penetration. Allow the oil to sit on your hair for an hour or even overnight for a more intensive treatment.</p>\n<p>4- After the desired time, wash your hair with a mild shampoo to remove the oil. follow up with conditioner as usual.</p>\n<br>\n</li>\n<li id=\"tab3\">\n<p><b>Cautions and warnings:</b></p>\n<p>While using or after use, if side effects such as clinical stigmata, swelling or irritation occur on skin, cease use and consult a doctor / Do not use on existing skin conditions such as open wounds, eczema or dermatitis, etc.</p>\n<p>Use only as directed on unbroken skin.</p>\n<p>Avoid contact with eyes and mucous membranes.</p>\n<p>For all hair types . Gluten free . Non-GMO . Cruelty free . Vegan . No parabens . No artificial fragrance or coloring . Alcohol-free .</p>\n<p><b>Storing and handling:</b></p>\n<p>Keep out of reach of children. Store in cool dry place. For external use only.</p>\n</li>\n<li id=\"tab4\">\n<p>1- Stimulates Hair Growth / Promotes blood circulation to the scalp, which can encourage new hair growth</p>\n<p>2- Moisturizes and Nourishes Scalp / Contains moisturizing properties that help nourish and hydrate the scalp, preventing dryness</p>\n<p>3- Strengthens Hair Roots / Penetrates the hair shaft, reducing breakage and split ends while making the hair softer and more manageable</p>\n<p>4- Improves Scalp Health / Contains antibacterial and antifungal properties than help treat dandruff and scalp irritation</p>\n<p>5- Prevents Hair Loss / Nourishes the scalp and hair follicles with powerful antioxidants that protect the hair from environmental damage</p>\n<p>6- Conditions Hair Follicles / Conditioning antioxidant ingredients which promote cell turnover and a healthy regeneration</p>\n<h3 data-end=\"97\" data-start=\"84\"><strong data-end=\"97\" data-start=\"88\">Oils:</strong></h3>\n<ul data-end=\"1118\" data-start=\"99\">\n<li data-end=\"215\" data-start=\"99\">\n<strong data-end=\"128\" data-start=\"101\">Organic Castor Seed Oil</strong>: Stimulates growth, strengthens hair, reduces split ends, and helps with scalp issues.</li>\n<li data-end=\"322\" data-start=\"216\">\n<strong data-end=\"244\" data-start=\"218\">Organic Grape Seed Oil</strong>: Hydrates, nourishes, and strengthens hair with antioxidants and fatty acids.</li>\n<li data-end=\"439\" data-start=\"323\">\n<strong data-end=\"349\" data-start=\"325\">Organic Tea Tree Oil</strong>: Treats dandruff, dry scalp, and infections with antifungal and antibacterial properties.</li>\n<li data-end=\"527\" data-start=\"440\">\n<strong data-end=\"466\" data-start=\"442\">Organic Lavender Oil</strong>: Reduces stress, promotes growth, and improves scalp health.</li>\n<li data-end=\"613\" data-start=\"528\">\n<strong data-end=\"552\" data-start=\"530\">Organic Jojoba Oil</strong>: Balances scalp oils, preventing dandruff and hair thinning.</li>\n<li data-end=\"705\" data-start=\"614\">\n<strong data-end=\"637\" data-start=\"616\">Organic Argan Oil</strong>: Hydrates, repairs damaged hair, and improves shine and elasticity.</li>\n<li data-end=\"791\" data-start=\"706\">\n<strong data-end=\"730\" data-start=\"708\">Organic Almond Oil</strong>: Nourishes hair, helps treat dandruff, and improves texture.</li>\n<li data-end=\"878\" data-start=\"792\">\n<strong data-end=\"817\" data-start=\"794\">Organic Coconut Oil</strong>: Moisturizes deeply, prevents breakage, and promotes growth.</li>\n<li data-end=\"949\" data-start=\"879\">\n<strong data-end=\"902\" data-start=\"881\">Organic Olive Oil</strong>: Prevents damage, strengthens, and adds shine.</li>\n<li data-end=\"1035\" data-start=\"950\">\n<strong data-end=\"975\" data-start=\"952\">Organic Avocado Oil</strong>: Repairs damaged hair, promotes scalp health, and hydrates.</li>\n<li data-end=\"1118\" data-start=\"1036\">\n<strong data-end=\"1064\" data-start=\"1038\">Organic Wheat Germ Oil</strong>: Strengthens hair and promotes growth with Vitamin E.</li>\n</ul>\n<h3 data-end=\"1147\" data-start=\"1120\"><strong data-end=\"1147\" data-start=\"1124\">Herbs and Extracts:</strong></h3>\n<ul data-end=\"2534\" data-start=\"1149\">\n<li data-end=\"1241\" data-start=\"1149\">\n<strong data-end=\"1176\" data-start=\"1151\">Organic Cedarwood Oil</strong>: Promotes circulation, helps with dandruff, and supports growth.</li>\n<li data-end=\"1325\" data-start=\"1242\">\n<strong data-end=\"1271\" data-start=\"1244\">Organic Carrot Seed Oil</strong>: Stimulates growth, reduces thinning, and adds shine.</li>\n<li data-end=\"1421\" data-start=\"1326\">\n<strong data-end=\"1353\" data-start=\"1328\">Organic Vitamin E Oil</strong>: Protects from damage and promotes growth by improving circulation.</li>\n<li data-end=\"1497\" data-start=\"1422\">\n<strong data-end=\"1445\" data-start=\"1424\">Organic Horsetail</strong>: Strengthens hair and reduces breakage with silica.</li>\n<li data-end=\"1579\" data-start=\"1498\">\n<strong data-end=\"1518\" data-start=\"1500\">Organic Nettle</strong>: Stimulates growth, improves circulation, and thickens hair.</li>\n<li data-end=\"1663\" data-start=\"1580\">\n<strong data-end=\"1601\" data-start=\"1582\">Organic Ginseng</strong>: Boosts scalp health, promotes growth, and reduces hair loss.</li>\n<li data-end=\"1745\" data-start=\"1664\">\n<strong data-end=\"1688\" data-start=\"1666\">Organic Peppermint</strong>: Stimulates growth, soothes scalp, and reduces dandruff.</li>\n<li data-end=\"1834\" data-start=\"1746\">\n<strong data-end=\"1768\" data-start=\"1748\">Organic Rosemary</strong>: Improves circulation, prevents graying, and helps with dandruff.</li>\n<li data-end=\"1912\" data-start=\"1835\">\n<strong data-end=\"1854\" data-start=\"1837\">Organic Thyme</strong>: Strengthens hair, reduces thinning, and supports growth.</li>\n<li data-end=\"2002\" data-start=\"1913\">\n<strong data-end=\"1938\" data-start=\"1915\">Organic Willow Bark</strong>: Exfoliates scalp, reduces inflammation, and controls dandruff.</li>\n<li data-end=\"2088\" data-start=\"2003\">\n<strong data-end=\"2029\" data-start=\"2005\">Organic Saw Palmetto</strong>: Helps prevent hair loss by blocking DHT, supports growth.</li>\n<li data-end=\"2190\" data-start=\"2089\">\n<strong data-end=\"2112\" data-start=\"2091\">Organic Fenugreek</strong>: Hydrates, strengthens, and promotes growth with proteins and nicotinic acid.</li>\n<li data-end=\"2264\" data-start=\"2191\">\n<strong data-end=\"2213\" data-start=\"2193\">Organic Cinnamon</strong>: Stimulates circulation and improves scalp health.</li>\n<li data-end=\"2347\" data-start=\"2265\">\n<strong data-end=\"2285\" data-start=\"2267\">Organic Cloves</strong>: Strengthens hair, improves circulation, and promotes growth.</li>\n<li data-end=\"2423\" data-start=\"2348\">\n<strong data-end=\"2370\" data-start=\"2350\">Organic Shallots</strong>: Stimulates growth and strengthens hair with sulfur.</li>\n<li data-end=\"2534\" data-start=\"2424\">\n<strong data-end=\"2444\" data-start=\"2426\">Organic Garlic</strong>: Strengthens hair, promotes growth, and improves scalp health with antifungal properties.  </li>\n</ul>\n</li>\n</ul>\n</div>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-scalp-treatment-elixir-oil-hair-growth-coming-soon-698686.jpg?v=1730245590",
+     "alt": "EIA - Organic Scalp Treatment Elixir Oil (Hair Growth)",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-scalp-treatment-elixir-oil-hair-growth-coming-soon-796722.jpg?v=1730245590",
+     "alt": "EIA - Organic Scalp Treatment Elixir Oil (Hair Growth)",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-scalp-treatment-elixir-oil-hair-growth-coming-soon-623047.jpg?v=1730245590",
+     "alt": "EIA - Organic Scalp Treatment Elixir Oil (Hair Growth)",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-scalp-treatment-elixir-oil-hair-growth-coming-soon-919362.jpg?v=1730245590",
+     "alt": "EIA - Organic Scalp Treatment Elixir Oil (Hair Growth)",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-scalp-treatment-elixir-oil-hair-growth-coming-soon-228075.jpg?v=1730245590",
+     "alt": "EIA - Organic Scalp Treatment Elixir Oil (Hair Growth)",
+     "width": 1583,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-scalp-treatment-elixir-oil-hair-growth-coming-soon-755825.jpg?v=1730245590",
+     "alt": "EIA - Organic Scalp Treatment Elixir Oil (Hair Growth)",
+     "width": 1583,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-scalp-treatment-elixir-oil-hair-growth-coming-soon-983901.jpg?v=1730825584",
+     "alt": "EIA - Organic Scalp Treatment Elixir Oil (Hair Growth)",
+     "width": 1363,
+     "height": 2048
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 45850192150776,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 6500,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 8797937303800,
+   "handle": "eia-organic-revitalizing-elixir-serum-hair-glow",
+   "title": "EIA - Organic Revitalizing Elixir Serum (Hair Glow)",
+   "vendor": "Baraguz Collection",
+   "type": "Baraguz Hair Serum",
+   "tags": [
+    "herbalteas",
+    "shopbycategory"
+   ],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">INGREDIENTS</a></li>\n<li><a href=\"#tab2\">HOW TO USE</a></li>\n<li><a href=\"#tab3\">DECLARATIONS </a></li>\n<li><a href=\"#tab4\">BENEFITS </a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p>Organic Aloe Vera, Organic Honey, Organic Prickly Pear Cactus Oil, Organic Argan Oil, Organic Pomegranate Seed Oil, Organic Coconut Oil, Organic Peppermint Oil, Organic Sunflower Oil, Organic Olive Oil, Organic Grapeseed Oil, Organic Shea Butter, Organic Almond Oil, Organic Black Seed Oil, Organic Batana Oil, Organic Hemp Seed Oil, Organic Sesame Oil, Organic Jojoba Oil, Organic Strawberry Seed Oil, Organic Amla, Organic Aritha, Organic Basil, Organic Bhringraj, Organic Bladderwrack, Organic Blue Malva, Organic Burdock Root, Organic Chamomile, Organic Chebe, Organic Cloves, Organic Comfrey Root, Organic Dandelion Root, Organic Eucalyptus, Organic Fenugreek, Organic Garlic, Organic Ginger Root, Organic Gotu Kola, Organic Horsetail, Organic Helicteres Isora, Organic Jatamansi, Organic Krishna Tuksi, Organic Neem, Organic Nettle, Organic Onion Seed, Organic Rosemary, Organic Sage, Organic Saw Palmetto, Organic Shatavari, Organic Tea Tree, Organic Thyme, Organic Yucca Root, Organic Biotin, Organic Menthol, Organic Vitamin E, Organic Orange Extract, Organic Water, Organic Behentrimonium Methosulfate, Organic Cetearyl Alcohol, Organic Propanediol, Organic Panthenol, Organic Sodium Lactate, Organic Propylene Glycol, Organic Cetrimonium Chloride, Organic Cetyl Alcohol, Organic Cocamidopropyl Betaine, Organic Sorbitan, Organic Chebe Powder, Organic Vitis Vinifera (Grapeseed Oil), Organic Oryza Sativa (Rice Bran Oil), Organic Lavandula angustifolia (Lavender), Organic Urtica dioica (Nettle Leaf), Organic Cymbopogon citratus (Lemon Grass), Organic Hydrolyzed Oat Flour (Venasilk), Organic Wheat Protein, Organic Fragrance, Organic Germall, Organic Plant-based Ceramide Complex, Organic Hydrolyzed Silk Protein, Organic Grapefruit Seed Extract.</p>\n</li>\n</ul>\n<p> </p>\n<p>This organic hair care formula offers a powerful blend of ingredients designed to nourish, strengthen, and revitalize hair from root to tip. The combination of organic oils like <strong data-end=\"191\" data-start=\"178\">Argan Oil</strong>, <strong data-end=\"208\" data-start=\"193\">Coconut Oil</strong>, and <strong data-end=\"228\" data-start=\"214\">Jojoba Oil</strong> deeply moisturizes and protects the hair, while herbal extracts like <strong data-end=\"306\" data-start=\"298\">Amla</strong>, <strong data-end=\"321\" data-start=\"308\">Bhringraj</strong>, and <strong data-end=\"340\" data-start=\"327\">Fenugreek</strong> stimulate healthy growth and promote a balanced, nourished scalp. Additionally, ingredients like <strong data-end=\"448\" data-start=\"438\">Biotin</strong>, <strong data-end=\"463\" data-start=\"450\">Vitamin E</strong>, and <strong data-end=\"487\" data-start=\"469\">Peppermint Oil</strong> support hair strength, shine, and vitality, while helping to reduce thinning and breakage. The soothing properties of <strong data-end=\"619\" data-start=\"606\">Aloe Vera</strong>, <strong data-end=\"630\" data-start=\"621\">Honey</strong>, and <strong data-end=\"649\" data-start=\"636\">Chamomile</strong> provide relief from scalp irritation, while <strong data-end=\"706\" data-start=\"694\">Rosemary</strong> and <strong data-end=\"727\" data-start=\"711\">Tea Tree Oil</strong> enhance scalp health. Together, these organic ingredients work synergistically to create a holistic solution for healthier, thicker, and more manageable hair, ensuring long-lasting nourishment and protection.</p>\n<ul class=\"tabs-content\">\n<li id=\"tab2\">\n<p>1- After shampooing and conditioning, gently towel-dry your hair until it’s damp, not dripping wet.</p>\n<p>2- Dispense a small amount of serum depending on your hair length and thickness onto your palm. Experiment with different amounts to find what works best for your hair type. Remember, a little goes a long way.</p>\n<p>3- Rub your hands together to evenly distribute the serum across your palms and fingers. Starting from the mid-lengths to the ends of your hair, apply the serum evenly, avoiding the scalp area. This helps prevent your roots from looking greasy.</p>\n<p>4- Use a wide-tooth comb or your fingers to distribute the serum evenly ensuring every strand is coated.</p>\n<p>5- You can now proceed with your usual styling routine, whether it’s blow-drying, straightening, or letting your hair air-dry.</p>\n<br>\n</li>\n<li id=\"tab3\">\n<p><b>Cautions and warnings:</b></p>\n<p>While using or after use, if side effects such as clinical stigmata, swelling or irritation occur on skin, cease use and consult a doctor / Do not use on existing skin conditions such as open wounds, eczema or dermatitis, etc.</p>\n<p>Use only as directed on unbroken skin.</p>\n<p>Avoid contact with eyes and mucous membranes.</p>\n<p>For all hair types . Gluten free . Non-GMO . Cruelty free . Vegan . No parabens . No artificial fragrance or coloring . Alcohol-free .</p>\n<p><b>Storing and handling:</b></p>\n<p>Keep out of reach of children. Store in cool dry place. For external use only.</p>\n</li>\n<li id=\"tab4\">\n<p>1- Moisture Retention / Helps seal moisture into the hair shaft, preventing dryness and frizz</p>\n<p>2- Heat Protection / Contains ingredients that provide a barrier against heat damage from styling tools like dryers and straighteners</p>\n<p>3- Shine Enhancement / Adds shine to dull or lackluster hair, making it appear more vibrant, healthier and glossy</p>\n<p>4- Split end Prevention / Nourishes the hair and seals split ends which can help prevent further damage and breakage</p>\n<p>5- UV Protection / Contains UV filters that protect the hair from harmful effects of the sun, such as dryness and color fading</p>\n<p>6- Softness and Detangling / Reduces presence of knots and snarls which makes the hair feel softer to the touch and more manageable</p>\n<p data-end=\"154\" data-start=\"0\">This is a comprehensive and potent blend of ingredients for a hair care formula that offers numerous benefits. Here are the key advantages of the product:</p>\n<ol data-end=\"2672\" data-start=\"156\">\n<li data-end=\"454\" data-start=\"156\">\n<p data-end=\"454\" data-start=\"159\"><strong data-end=\"182\" data-start=\"159\">Hair Growth Support</strong>: Ingredients like <strong data-end=\"217\" data-start=\"201\">Organic Amla</strong>, <strong data-is-only-node=\"\" data-end=\"237\" data-start=\"219\">Organic Aritha</strong>, <strong data-end=\"260\" data-start=\"239\">Organic Bhringraj</strong>, <strong data-end=\"286\" data-start=\"262\">Organic Saw Palmetto</strong>, <strong data-end=\"306\" data-start=\"288\">Organic Biotin</strong>, <strong data-end=\"331\" data-start=\"308\">Organic Ginger Root</strong>, and <strong data-end=\"358\" data-start=\"337\">Organic Fenugreek</strong> promote healthy hair growth, strengthen hair follicles, and stimulate circulation to the scalp.</p>\n</li>\n<li data-end=\"750\" data-start=\"456\">\n<p data-end=\"750\" data-start=\"459\"><strong data-end=\"488\" data-start=\"459\">Nourishes and Strengthens</strong>: <strong data-end=\"511\" data-start=\"490\">Organic Argan Oil</strong>, <strong data-is-only-node=\"\" data-end=\"536\" data-start=\"513\">Organic Coconut Oil</strong>, <strong data-end=\"560\" data-start=\"538\">Organic Almond Oil</strong>, <strong data-end=\"584\" data-start=\"562\">Organic Jojoba Oil</strong>, <strong data-end=\"609\" data-start=\"586\">Organic Shea Butter</strong>, and <strong data-end=\"641\" data-start=\"615\">Organic Black Seed Oil</strong> deeply nourish, hydrate, and restore moisture to dry and damaged hair, while improving elasticity and shine.</p>\n</li>\n<li data-end=\"1004\" data-start=\"752\">\n<p data-end=\"1004\" data-start=\"755\"><strong data-end=\"771\" data-start=\"755\">Scalp Health</strong>: <strong data-end=\"797\" data-start=\"773\">Organic Tea Tree Oil</strong>, <strong data-is-only-node=\"\" data-end=\"819\" data-start=\"799\">Organic Rosemary</strong>, <strong data-end=\"837\" data-start=\"821\">Organic Neem</strong>, <strong data-end=\"861\" data-start=\"839\">Organic Eucalyptus</strong>, and <strong data-end=\"887\" data-start=\"867\">Organic Lavender</strong> work to maintain a healthy scalp by reducing dandruff, soothing irritation, and helping to prevent scalp infections.</p>\n</li>\n<li data-end=\"1220\" data-start=\"1006\">\n<p data-end=\"1220\" data-start=\"1009\"><strong data-end=\"1038\" data-start=\"1009\">Adds Shine and Smoothness</strong>: <strong data-end=\"1061\" data-start=\"1040\">Organic Olive Oil</strong>, <strong data-is-only-node=\"\" data-end=\"1088\" data-start=\"1063\">Organic Grapeseed Oil</strong>, <strong data-end=\"1122\" data-start=\"1090\">Organic Pomegranate Seed Oil</strong>, and <strong data-end=\"1159\" data-start=\"1128\">Organic Strawberry Seed Oil</strong> add shine, enhance smoothness, and help repair damaged hair.</p>\n</li>\n<li data-end=\"1486\" data-start=\"1222\">\n<p data-end=\"1486\" data-start=\"1225\"><strong data-end=\"1260\" data-start=\"1225\">Prevents Hair Thinning and Loss</strong>: <strong data-end=\"1280\" data-start=\"1262\">Organic Nettle</strong>, <strong data-is-only-node=\"\" data-end=\"1300\" data-start=\"1282\">Organic Garlic</strong>, <strong data-end=\"1323\" data-start=\"1302\">Organic Horsetail</strong>, <strong data-end=\"1346\" data-start=\"1325\">Organic Gotu Kola</strong>, <strong data-end=\"1374\" data-start=\"1348\">Organic Black Seed Oil</strong>, and <strong data-end=\"1398\" data-start=\"1380\">Organic Biotin</strong> help reduce hair thinning, prevent hair loss, and strengthen the hair from root to tip.</p>\n</li>\n<li data-end=\"1684\" data-start=\"1488\">\n<p data-end=\"1684\" data-start=\"1491\"><strong data-end=\"1518\" data-start=\"1491\">Soothing and Refreshing</strong>: <strong data-end=\"1546\" data-start=\"1520\">Organic Peppermint Oil</strong> and <strong data-is-only-node=\"\" data-end=\"1570\" data-start=\"1551\">Organic Menthol</strong> provide a cooling and refreshing effect on the scalp, improving circulation and alleviating dryness or itchiness.</p>\n</li>\n<li data-end=\"1926\" data-start=\"1686\">\n<p data-end=\"1926\" data-start=\"1689\"><strong data-end=\"1720\" data-start=\"1689\">Deep Hydration and Moisture</strong>: The combination of <strong data-end=\"1758\" data-start=\"1741\">Organic Honey</strong>, <strong data-is-only-node=\"\" data-end=\"1781\" data-start=\"1760\">Organic Aloe Vera</strong>, <strong data-end=\"1806\" data-start=\"1783\">Organic Propanediol</strong>, and <strong data-end=\"1829\" data-start=\"1812\">Organic Water</strong> locks in moisture, helping to keep hair hydrated, soft, and manageable without weighing it down.</p>\n</li>\n<li data-end=\"2157\" data-start=\"1928\">\n<p data-end=\"2157\" data-start=\"1931\"><strong data-end=\"1957\" data-start=\"1931\">Antioxidant Protection</strong>: <strong data-end=\"1980\" data-start=\"1959\">Organic Vitamin E</strong>, <strong data-is-only-node=\"\" data-end=\"2006\" data-start=\"1982\">Pomegranate Seed Oil</strong>, <strong data-end=\"2043\" data-start=\"2008\">Organic Grapefruit Seed Extract</strong>, and <strong data-end=\"2081\" data-start=\"2049\">Plant-based Ceramide Complex</strong> protect hair from environmental damage, promoting stronger, healthier hair.</p>\n</li>\n<li data-end=\"2411\" data-start=\"2159\">\n<p data-end=\"2411\" data-start=\"2162\"><strong data-end=\"2184\" data-start=\"2162\">Repair and Restore</strong>: <strong data-end=\"2207\" data-start=\"2186\">Organic Chamomile</strong>, <strong data-is-only-node=\"\" data-end=\"2233\" data-start=\"2209\">Organic Bladderwrack</strong>, <strong data-end=\"2259\" data-start=\"2235\">Organic Comfrey Root</strong>, <strong data-end=\"2282\" data-start=\"2261\">Organic Jatamansi</strong>, and <strong data-end=\"2315\" data-start=\"2288\">Hydrolyzed Silk Protein</strong> work to restore damaged hair, reduce frizz, and improve overall hair texture and manageability.</p>\n</li>\n<li data-end=\"2672\" data-start=\"2413\">\n<p data-end=\"2672\" data-start=\"2417\"><strong data-end=\"2436\" data-start=\"2417\">Gentle and Safe</strong>: With <strong data-end=\"2482\" data-start=\"2443\">Organic Behentrimonium Methosulfate</strong>, <strong data-is-only-node=\"\" data-end=\"2512\" data-start=\"2484\">Organic Cetearyl Alcohol</strong>, and <strong data-end=\"2546\" data-start=\"2518\">Organic Propylene Glycol</strong>, this formula provides gentle conditioning, leaving hair feeling soft and detangled without stripping it of its natural oils.</p>\n</li>\n</ol>\n<p data-is-only-node=\"\" data-is-last-node=\"\" data-end=\"2851\" data-start=\"2674\">This product is designed to offer holistic hair care with natural, organic ingredients to strengthen, nourish, and promote healthy hair growth while maintaining a healthy scalp.</p>\n</li>\n</ul>\n</div>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-revitalizing-elixir-serum-hair-glow-coming-soon-521671.jpg?v=1730245590",
+     "alt": "EIA - Organic Revitalizing Elixir Serum (Hair Glow)",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-revitalizing-elixir-serum-hair-glow-coming-soon-570367.jpg?v=1730245590",
+     "alt": "EIA - Organic Revitalizing Elixir Serum (Hair Glow)",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-revitalizing-elixir-serum-hair-glow-coming-soon-973242.jpg?v=1730245590",
+     "alt": "EIA - Organic Revitalizing Elixir Serum (Hair Glow)",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-revitalizing-elixir-serum-hair-glow-coming-soon-463190.jpg?v=1730245590",
+     "alt": "EIA - Organic Revitalizing Elixir Serum (Hair Glow)",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-revitalizing-elixir-serum-hair-glow-coming-soon-544819.jpg?v=1730245590",
+     "alt": "EIA - Organic Revitalizing Elixir Serum (Hair Glow)",
+     "width": 1583,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-revitalizing-elixir-serum-hair-glow-coming-soon-899327.jpg?v=1730245590",
+     "alt": "EIA - Organic Revitalizing Elixir Serum (Hair Glow)",
+     "width": 1583,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-revitalizing-elixir-serum-hair-glow-coming-soon-849869.jpg?v=1730825584",
+     "alt": "EIA - Organic Revitalizing Elixir Serum (Hair Glow)",
+     "width": 1363,
+     "height": 2048
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 45850213286136,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 5800,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 8797939433720,
+   "handle": "eia-organic-elixir-oil-and-serum-bundle-hair-growth-glow",
+   "title": "EIA - Organic Elixir Oil and Serum Bundle (Hair Growth & Glow)",
+   "vendor": "Baraguz Collection",
+   "type": "",
+   "tags": [
+    "Baraguz EIA",
+    "Baraguz Hair",
+    "Baraguz Hair Oil",
+    "Baraguz Hair Serum",
+    "herbalteas",
+    "shopbycategory"
+   ],
+   "descriptionHtml": "<p data-start=\"0\" data-end=\"53\"><strong data-start=\"0\" data-end=\"53\">Organic Hair Revitalizing Elixir and Serum Bundle</strong></p>\n<p data-start=\"55\" data-end=\"362\">Unlock the secret to healthier, stronger, and more vibrant hair with our exclusive <strong data-start=\"138\" data-end=\"192\">Hair Elixir Oil and Hair Revitalizing Serum Bundle</strong>. This powerful duo combines the deep nourishment of our organic elixir oil with the targeted revitalizing benefits of our serum to transform your hair from root to tip.</p>\n<p data-start=\"364\" data-end=\"924\">The <strong data-start=\"368\" data-end=\"387\">Hair Elixir Oil</strong> is packed with nutrient-rich organic oils like <strong data-start=\"435\" data-end=\"448\">Argan Oil</strong>, <strong data-start=\"450\" data-end=\"465\">Coconut Oil</strong>, and <strong data-start=\"471\" data-end=\"485\">Jojoba Oil</strong>, which deeply moisturize and protect the hair while promoting a nourished and balanced scalp. Herbal extracts like <strong data-start=\"601\" data-end=\"609\">Amla</strong>, <strong data-start=\"611\" data-end=\"624\">Bhringraj</strong>, and <strong data-start=\"630\" data-end=\"643\">Fenugreek</strong> stimulate healthy growth, reduce thinning, and improve scalp health. <strong data-start=\"713\" data-end=\"723\">Biotin</strong> and <strong data-start=\"728\" data-end=\"741\">Vitamin E</strong> work together to boost hair strength, shine, and vitality, while <strong data-start=\"807\" data-end=\"825\">Peppermint Oil</strong> offers a refreshing, invigorating sensation that helps soothe irritation and support circulation.</p>\n<p data-start=\"926\" data-end=\"1549\">Our <strong data-start=\"930\" data-end=\"957\">Hair Revitalizing Serum</strong> is specially formulated with potent ingredients like <strong data-start=\"1011\" data-end=\"1025\">Castor Oil</strong>, <strong data-start=\"1027\" data-end=\"1039\">Rosemary</strong>, and <strong data-start=\"1045\" data-end=\"1059\">Peppermint</strong>, which work synergistically to enhance circulation and stimulate hair follicles, promoting healthy growth and reducing thinning. Additionally, <strong data-start=\"1203\" data-end=\"1219\">Saw Palmetto</strong>, <strong data-start=\"1221\" data-end=\"1232\">Ginseng</strong>, and <strong data-start=\"1238\" data-end=\"1251\">Horsetail</strong> nourish the scalp, while <strong data-start=\"1277\" data-end=\"1293\">Tea Tree Oil</strong> and <strong data-start=\"1298\" data-end=\"1311\">Cedarwood</strong> reduce inflammation and combat scalp infections. Together, these powerful botanicals create an effective solution to address scalp issues like dandruff and dryness, leaving you with stronger, shinier hair that is less prone to breakage.</p>\n<p data-start=\"1551\" data-end=\"1771\" data-is-last-node=\"\" data-is-only-node=\"\">When used together, this bundle offers a holistic approach to hair care, ensuring long-lasting nourishment, protection, and visible results—helping you achieve healthier, thicker, and more manageable hair with every use.</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-elixir-oil-and-serum-bundle-hair-growth-glow-coming-soon-819563.jpg?v=1730245527",
+     "alt": "EIA - Organic Elixir Oil and Serum Bundle (Hair Growth & Glow)",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-elixir-oil-and-serum-bundle-hair-growth-glow-coming-soon-918230.jpg?v=1730245527",
+     "alt": "EIA - Organic Elixir Oil and Serum Bundle (Hair Growth & Glow)",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-elixir-oil-and-serum-bundle-hair-growth-glow-coming-soon-863516.jpg?v=1730245527",
+     "alt": "EIA - Organic Elixir Oil and Serum Bundle (Hair Growth & Glow)",
+     "width": 1363,
+     "height": 2048
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/eia-organic-elixir-oil-and-serum-bundle-hair-growth-glow-coming-soon-781901.jpg?v=1730245527",
+     "alt": "EIA - Organic Elixir Oil and Serum Bundle (Hair Growth & Glow)",
+     "width": 1363,
+     "height": 2048
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 45850220560632,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 11000,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 8201260302584,
+   "handle": "baraguz-slimt-the-pro-kit",
+   "title": "Baraguz SlimT Bundle - (The Pro Kit)",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "detox"
+   ],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<ul class=\"tabs\">\n<li><a class=\"active\" href=\"#tab1\" data-mce-href=\"#tab1\">INGREDIENTS</a></li>\n<li><a href=\"#tab2\" data-mce-href=\"#tab2\">HOW TO USE</a></li>\n<li><a href=\"#tab3\" data-mce-href=\"#tab3\">DECLARATIONS </a></li>\n<li><a href=\"#tab4\" data-mce-href=\"#tab4\">BENEFITS </a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li class=\"active\" id=\"tab1\">\n<p><i>Serving Size 1 Tea Bag (Makes 10 fl oz) / Proprietary Blend of Herbs (3,000 mg)</i></p>\n<ul>\n<li>1- Organic green tea</li>\n<li>2- Organic pu-erh tea</li>\n<li>3- Organic Oolong tea</li>\n<li>4- Yerba mate</li>\n<li>5- Lotus leaves</li>\n<li>6- Goji berries</li>\n<li>7- Ginseng (Panax)</li>\n<li>8- Dandelion root</li>\n<li>9- Senna leaves</li>\n<li>10- Ginger</li>\n<li>11- Lemon pieces</li>\n<li>12- Cloves</li>\n<li>13- Star anise</li>\n<li>14- Lemon grass</li>\n<li>15- Gynostemma Pentaphyllum</li>\n</ul>\n<p>Each serving contains insignificant amounts of calories, saturated fat, trans fat, cholesterol, carbohydrates, dietary fiber, sugars, calcium, iron, protein, sodium. and potassium.</p>\n</li>\n<li id=\"tab2\">\n<p>Drink on an empty stomach, 1-2 hours after lunch/dinner, while it’s still hot.</p>\n<ul>\n<li>1- Bring fresh water to a boil</li>\n<li>2- Pour (10 oz) of water over tea bag in a cup</li>\n<li>3- Cover and steep for 3-5 minutes</li>\n<li>4- Allow to slightly cool before drinking</li>\n</ul>\n<br>\n<ul class=\"steps-imgs\">\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\"></li>\n</ul>\n</li>\n<li id=\"tab3\">\n<p>Consult your licensed healthcare provider prior to use if you are pregnant, taking any medication, or if you have any medical conditions. All listed statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease / medical condition. Recommended for adults only.</p>\n</li>\n<li id=\"tab4\">\n<p>1- Supports immune function and overall wellness.</p>\n<p>2- Helps maintain healthy blood sugar levels.</p>\n<p>3- Enhances focus and cognitive function.</p>\n<p>4- Provides antioxidants to combat oxidative stress.</p>\n<p>5- Encourages a feeling of fullness, aiding portion control.</p>\n<p>6- Promotes healthy metabolism of fats and carbohydrates.</p>\n<p>7- Supports a balanced gut microbiome.</p>\n<p>8- May improve sleep quality and relaxation.</p>\n<p> </p>\n</li>\n</ul>\n</div>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-bundle-the-pro-kit-824358.jpg?v=1727800087",
+     "alt": "Baraguz SlimT Bundle - (The Pro Kit)",
+     "width": 2048,
+     "height": 1325
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-bundle-the-pro-kit-242419.jpg?v=1727800087",
+     "alt": "Baraguz SlimT Bundle - (The Pro Kit)",
+     "width": 2048,
+     "height": 1325
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 44188302147832,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 27999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7957526348024,
+   "handle": "baraguz-slimt-detox-trifecta-the-karen-combo-boosted",
+   "title": "Baraguz SlimT Detox Trifecta - (The BOOSTED Karen Combo) WEIGHT LOSS PLUS",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "detox"
+   ],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<ul class=\"tabs\">\n<li><a class=\"active\" href=\"#tab1\" data-mce-href=\"#tab1\">INGREDIENTS</a></li>\n<li><a href=\"#tab2\" data-mce-href=\"#tab2\">HOW TO USE</a></li>\n<li><a href=\"#tab3\" data-mce-href=\"#tab3\">DECLARATIONS </a></li>\n<li><a href=\"#tab4\" data-mce-href=\"#tab4\">BENEFITS </a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li class=\"active\" id=\"tab1\">\n<p><i>Serving Size 1 Tea Bag (Makes 10 fl oz) / Proprietary Blend of Herbs (3,000 mg)</i></p>\n<ul>\n<li>1- Organic green tea</li>\n<li>2- Organic pu-erh tea</li>\n<li>3- Organic Oolong tea</li>\n<li>4- Yerba mate</li>\n<li>5- Lotus leaves</li>\n<li>6- Goji berries</li>\n<li>7- Ginseng (Panax)</li>\n<li>8- Dandelion root</li>\n<li>9- Senna leaves</li>\n<li>10- Ginger</li>\n<li>11- Lemon pieces</li>\n<li>12- Cloves</li>\n<li>13- Star anise</li>\n<li>14- Lemon grass</li>\n<li>15- Gynostemma Pentaphyllum</li>\n</ul>\n<p>Each serving contains insignificant amounts of calories, saturated fat, trans fat, cholesterol, carbohydrates, dietary fiber, sugars, calcium, iron, protein, sodium. and potassium.</p>\n</li>\n<li id=\"tab2\">\n<p>Drink on an empty stomach, 1-2 hours after lunch/dinner, while it’s still hot.</p>\n<ul>\n<li>1- Bring fresh water to a boil</li>\n<li>2- Pour (10 oz) of water over tea bag in a cup</li>\n<li>3- Cover and steep for 3-5 minutes</li>\n<li>4- Allow to slightly cool before drinking</li>\n</ul>\n<br>\n<ul class=\"steps-imgs\">\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\"></li>\n</ul>\n</li>\n<li id=\"tab3\">\n<p>Consult your licensed healthcare provider prior to use if you are pregnant, taking any medication, or if you have any medical conditions. All listed statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease / medical condition. Recommended for adults only.</p>\n</li>\n<li id=\"tab4\">\n<p>1- Supports immune function and overall wellness.</p>\n<p>2- Helps maintain healthy blood sugar levels.</p>\n<p>3- Enhances focus and cognitive function.</p>\n<p>4- Provides antioxidants to combat oxidative stress.</p>\n<p>5- Encourages a feeling of fullness, aiding portion control.</p>\n<p>6- Promotes healthy metabolism of fats and carbohydrates.</p>\n<p>7- Supports a balanced gut microbiome.</p>\n<p>8- May improve sleep quality and relaxation.</p>\n<p> </p>\n</li>\n</ul>\n</div>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-detox-trifecta-the-boosted-karen-combo-432195.jpg?v=1727800091",
+     "alt": "Baraguz SlimT Detox Trifecta - (The BOOSTED Karen Combo) WEIGHT LOSS PLUS",
+     "width": 2048,
+     "height": 1543
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-detox-trifecta-the-boosted-karen-combo-725403.jpg?v=1727800091",
+     "alt": "Baraguz SlimT Detox Trifecta - (The BOOSTED Karen Combo) WEIGHT LOSS PLUS",
+     "width": 2048,
+     "height": 1543
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 43722286334200,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 21499,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7957498396920,
+   "handle": "baraguz-slimt-detox-trifecta-the-karen-combo",
+   "title": "Baraguz SlimT Detox Trifecta - (The Karen Combo) WEIGHT LOSS",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "detox"
+   ],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<ul class=\"tabs\">\n<li><a class=\"active\" href=\"#tab1\" data-mce-href=\"#tab1\">INGREDIENTS</a></li>\n<li><a href=\"#tab2\" data-mce-href=\"#tab2\">HOW TO USE</a></li>\n<li><a href=\"#tab3\" data-mce-href=\"#tab3\">DECLARATIONS </a></li>\n<li><a href=\"#tab4\" data-mce-href=\"#tab4\">BENEFITS </a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li class=\"active\" id=\"tab1\">\n<p><i>Serving Size 1 Tea Bag (Makes 10 fl oz) / Proprietary Blend of Herbs (3,000 mg)</i></p>\n<ul>\n<li>1- Organic green tea</li>\n<li>2- Organic pu-erh tea</li>\n<li>3- Organic Oolong tea</li>\n<li>4- Yerba mate</li>\n<li>5- Lotus leaves</li>\n<li>6- Goji berries</li>\n<li>7- Ginseng (Panax)</li>\n<li>8- Dandelion root</li>\n<li>9- Senna leaves</li>\n<li>10- Ginger</li>\n<li>11- Lemon pieces</li>\n<li>12- Cloves</li>\n<li>13- Organic Oolong tea</li>\n</ul>\n<p>Each serving contains insignificant amounts of calories, saturated fat, trans fat, cholesterol, carbohydrates, dietary fiber, sugars, calcium, iron, protein, sodium. and potassium.</p>\n</li>\n<li id=\"tab2\">\n<p>Drink on an empty stomach, 1-2 hours after dinner, while it’s still hot.</p>\n<ul>\n<li>1- Bring fresh water to a boil</li>\n<li>2- Pour (10 oz) of water over tea bag in a cup</li>\n<li>3- Cover and steep for 3-5 minutes</li>\n<li>4- Allow to slightly cool before drinking</li>\n</ul>\n<br>\n<ul class=\"steps-imgs\">\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\"></li>\n</ul>\n</li>\n<li id=\"tab3\">\n<p>Consult your licensed healthcare provider prior to use if you are pregnant, taking any medication, or if you have any medical conditions. All listed statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease / medical condition. Recommended for adults only.</p>\n</li>\n<li id=\"tab4\">\n<p>1- Supports natural toxin elimination.</p>\n<p>2- Aids in weight loss and reduces cravings.</p>\n<p>3- Enhances digestive health and reduces bloating.</p>\n<p>4- Increases vitality for daily activities.</p>\n<p>5- Stimulates calorie burning.</p>\n<p>6- Promotes clearer skin and a healthy glow.</p>\n<p>7- Balances mood and reduces stress. </p>\n<p>8- Encourages proper hydration for overall health.</p>\n<p> </p>\n</li>\n</ul>\n</div>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-detox-trifecta-the-karen-combo-706696.jpg?v=1727800090",
+     "alt": "Baraguz SlimT Detox Trifecta - (The Karen Combo) WEIGHT LOSS",
+     "width": 2048,
+     "height": 1135
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slimt-detox-trifecta-the-karen-combo-575678.jpg?v=1727800089",
+     "alt": "Baraguz SlimT Detox Trifecta - (The Karen Combo) WEIGHT LOSS",
+     "width": 2048,
+     "height": 1135
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 43722224697592,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 16999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7828617003256,
+   "handle": "baraguz-pmst-menstrual-care-cycle-formula-tea-30-servings",
+   "title": "Baraguz PMST - Menstrual Care / Cycle Formula Tea (30 Servings)",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "herbalteas",
+    "shopbycategory"
+   ],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">INGREDIENTS</a></li>\n<li><a href=\"#tab2\">HOW TO USE</a></li>\n<li><a href=\"#tab3\">DECLARATIONS </a></li>\n<li><a href=\"#tab4\">BENEFITS </a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p><i>Serving Size 1 Tea Bag (Makes 10 fl oz) / Proprietary Blend of Herbs (3,000 mg)</i></p>\n<ul>\n<li>Wild Yam Root (Dioscorea Villosa)</li>\n<li>Fructus Gardenia</li>\n<li>Flaxseed</li>\n<li>White Peony</li>\n<li>Aloe Vera</li>\n<li>Chamomile Flowers</li>\n<li>Ginger</li>\n<li>Cinnamon Bark</li>\n<li>Angelica Sinensis</li>\n<li>Cardamom</li>\n<li>Peppermint Leaf</li>\n<li>Fennel Seeds</li>\n<li>Green Tea</li>\n<li>Dandelion Leaf</li>\n<li>Hibiscus Flowers</li>\n<li>Star Anise</li>\n<li>Rosemary</li>\n</ul>\n<p>Each serving contains insignificant amounts of calories, saturated fat, trans fat, cholesterol, carbohydrates, dietary fiber, sugars, calcium, iron, protein, sodium. and potassium.</p>\n</li>\n<li id=\"tab2\">\n<p>Drink as needed, 1-2 hours after breakfast, lunch or dinner, while it’s still hot.</p>\n<ul>\n<li>1- Bring fresh water to a boil</li>\n<li>2- Pour (10 oz) of water over tea bag in a cup</li>\n<li>3- Cover and steep for 3-5 minutes</li>\n<li>4- Allow to slightly cool before drinking</li>\n</ul>\n<br>\n<ul class=\"steps-imgs\">\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\"></li>\n</ul>\n</li>\n<li id=\"tab3\">\n<p>Consult your licenses healthcare provider prior to use if you are pregnant, taking any medication or if you have any medical conditions.<br><br> All listed statements have not been evaluation by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease / medical conditions. <br> Recommended for adults only. <br><br> Formulated without :<br>GMOs / Gluten / Sugar or Sweeteners / Artificial Flavors or Dyes / Artificial Ingredients or Preservatives / Animal Products / Fish / Tree Nuts / Soy / Wheat or Dairy Products</p>\n</li>\n<li id=\"tab4\">\n<p>May Reduce Menstrual Cramping</p>\n<p>Helps Reduce Muscle Pain / Body Aches</p>\n<p>Helps Alleviate Mood Swings</p>\n<p>Helps Control Irregular Periods</p>\n<p>Helps Relieve Nausea and Upset Stomach</p>\n<p>May Support Fatigue / Restlessness</p>\n<p>Promotes Stress Relief</p>\n<p>Helps Reduce Hormonal Migraines</p>\n<p> </p>\n</li>\n</ul>\n</div>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-pmst-menstrual-care-cycle-formula-tea-30-servings-914788.jpg?v=1727800096",
+     "alt": "Baraguz PMST - Menstrual Care / Cycle Formula Tea (30 Servings)",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-pmst-menstrual-care-cycle-formula-tea-30-servings-194949.jpg?v=1727800096",
+     "alt": "Baraguz PMST - Menstrual Care / Cycle Formula Tea (30 Servings)",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-pmst-menstrual-care-cycle-formula-tea-30-servings-932167.jpg?v=1727799560",
+     "alt": "Baraguz PMST - Menstrual Care / Cycle Formula Tea (30 Servings)",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-pmst-menstrual-care-cycle-formula-tea-30-servings-571520.png?v=1727799560",
+     "alt": "Baraguz PMST - Menstrual Care / Cycle Formula Tea (30 Servings)",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-pmst-menstrual-care-cycle-formula-tea-30-servings-281628.jpg?v=1727799560",
+     "alt": "Baraguz PMST - Menstrual Care / Cycle Formula Tea (30 Servings)",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-pmst-menstrual-care-cycle-formula-tea-30-servings-511703.jpg?v=1727799560",
+     "alt": "Baraguz PMST - Menstrual Care / Cycle Formula Tea (30 Servings)",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-pmst-menstrual-care-cycle-formula-tea-30-servings-439118.jpg?v=1727799560",
+     "alt": "Baraguz PMST - Menstrual Care / Cycle Formula Tea (30 Servings)",
+     "width": 1201,
+     "height": 800
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 43332969365752,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 4999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7828610285816,
+   "handle": "baraguz-maternit-lactation-support-optimal-milk-supply-30-servings",
+   "title": "Baraguz MaterniT - Lactation Support / Optimal Milk Supply (30 Servings) - AVAILABLE NOW",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "herbalteas",
+    "shopbycategory"
+   ],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<ul class=\"tabs\">\n<li><a href=\"#tab1\" class=\"active\">INGREDIENTS</a></li>\n<li><a href=\"#tab2\">HOW TO USE</a></li>\n<li><a href=\"#tab3\">DECLARATIONS </a></li>\n<li><a href=\"#tab4\">BENEFITS </a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li id=\"tab1\" class=\"active\">\n<p><i>Serving Size 1 Tea Bag (Makes 10 fl oz) / Proprietary Blend of Herbs (3,000 mg)</i></p>\n<ul>\n<li>Fennel Seeds</li>\n<li>Anise Seeds</li>\n<li>Coriander Leaf</li>\n<li>Fenugreek Seeds</li>\n<li>Milk Thistle</li>\n<li>Nettle Leaf</li>\n<li>Ginger</li>\n<li>Marshmallow Root</li>\n<li>Lemon Pieces</li>\n<li>Chamomile Flowers</li>\n<li>Moringa Leaf</li>\n<li>Red Rasberry Leaf</li>\n<li>Dandelion Leaf</li>\n<li>Turmeric</li>\n<li>Oat Straw</li>\n</ul>\n<p>Each serving contains insignificant amounts of calories, saturated fat, trans fat, cholesterol, carbohydrates, dietary fiber, sugars, calcium, iron, protein, sodium. and potassium.</p>\n</li>\n<li id=\"tab2\">\n<p>Drink as needed, 1-2 hours after breakfast, lunch or dinner, while it’s still hot.</p>\n<ul>\n<li>1- Bring fresh water to a boil</li>\n<li>2- Pour (10 oz) of water over tea bag in a cup</li>\n<li>3- Cover and steep for 3-5 minutes</li>\n<li>4- Allow to slightly cool before drinking</li>\n</ul>\n<br>\n<ul class=\"steps-imgs\">\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\"></li>\n</ul>\n</li>\n<li id=\"tab3\">\n<p>Consult your licenses healthcare provider prior to use if you are pregnant, taking any medication or if you have any medical conditions.<br><br> All listed statements have not been evaluation by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease / medical conditions. <br> Recommended for adults only.\n<br><br> Formulated without :<br>GMOs / Gluten / Sugar or Sweeteners / Artificial Flavors or Dyes / Artificial Ingredients or Preservatives / Animal Products / Fish / Tree Nuts / Soy / Wheat or Dairy Products</p>\n</li>\n<li id=\"tab4\">\n<p>Vital Hydration for Mother and Child</p>\n<p>Helps Revamp Mother’s Milk Supply</p>\n<p>Provides Essential Nutrients</p>\n<p>Protective Antibacterial Properties</p>\n<p>Helps Boost / Balance Hormone Levels</p>\n<p>May Enhance Quality of Breast Milk</p>\n<p>Helps Neutralize Digestive / Gut Issues</p>\n<p>Helps Reduce Swelling / Inflammation</p>\n<p> </p>\n</li>\n</ul>\n</div>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-maternit-lactation-support-optimal-milk-supply-30-servings-available-now-542368.jpg?v=1727799560",
+     "alt": "Baraguz MaterniT - Lactation Support / Optimal Milk Supply (30 Servings) - AVAILABLE NOW",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-maternit-lactation-support-optimal-milk-supply-30-servings-available-now-501422.jpg?v=1727799560",
+     "alt": "Baraguz MaterniT - Lactation Support / Optimal Milk Supply (30 Servings) - AVAILABLE NOW",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-maternit-lactation-support-optimal-milk-supply-30-servings-available-now-687387.jpg?v=1727799560",
+     "alt": "Baraguz MaterniT - Lactation Support / Optimal Milk Supply (30 Servings) - AVAILABLE NOW",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-maternit-lactation-support-optimal-milk-supply-30-servings-available-now-345019.png?v=1727799560",
+     "alt": "Baraguz MaterniT - Lactation Support / Optimal Milk Supply (30 Servings) - AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-maternit-lactation-support-optimal-milk-supply-30-servings-available-now-284359.jpg?v=1727799560",
+     "alt": "Baraguz MaterniT - Lactation Support / Optimal Milk Supply (30 Servings) - AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-maternit-lactation-support-optimal-milk-supply-30-servings-available-now-459018.jpg?v=1727799560",
+     "alt": "Baraguz MaterniT - Lactation Support / Optimal Milk Supply (30 Servings) - AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-maternit-lactation-support-optimal-milk-supply-30-servings-available-now-505382.jpg?v=1727799560",
+     "alt": "Baraguz MaterniT - Lactation Support / Optimal Milk Supply (30 Servings) - AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 43332955570424,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 4999,
+     "compareAtPrice": null,
+     "available": false,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7828605436152,
+   "handle": "baraguz-anxiet-immunity-stimulus-booster-kit-tea-30-servings",
+   "title": "Baraguz ImmuniT - Immunity Stimulus / Booster Kit Tea (30 Servings) -  AVAILABLE NOW",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "herbalteas",
+    "shopbycategory"
+   ],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<ul class=\"tabs\">\n<li><a class=\"active\" href=\"#tab1\">INGREDIENTS</a></li>\n<li><a href=\"#tab2\">HOW TO USE</a></li>\n<li><a href=\"#tab3\">DECLARATIONS </a></li>\n<li><a href=\"#tab4\">BENEFITS </a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li class=\"active\" id=\"tab1\">\n<p><i>Serving Size 1 Tea Bag (Makes 10 fl oz) / Proprietary Blend of Herbs (3,000 mg)</i></p>\n<ul>\n<li>Hibiscus Flowers</li>\n<li>Calendula</li>\n<li>Turmeric</li>\n<li>Fennel Seeds</li>\n<li>Black Pepper</li>\n<li>Ginger</li>\n<li>Lemon Pieces</li>\n<li>Lemongrass</li>\n<li>Cinnamon Bark</li>\n<li>Orange Peel</li>\n<li>Peppermint Leaf</li>\n<li>Chamomile Flowers</li>\n<li>Licorice Root</li>\n<li>Forget Me Not Flowers (Myosotis Sylvatica)</li>\n<li>Green Tea</li>\n</ul>\n<p>Each serving contains insignificant amounts of calories, saturated fat, trans fat, cholesterol, carbohydrates, dietary fiber, sugars, calcium, iron, protein, sodium. and potassium.</p>\n</li>\n<li id=\"tab2\">\n<p>Drink as needed, 1-2 hours after breakfast, lunch or dinner, while it’s still hot.</p>\n<ul>\n<li>1- Bring fresh water to a boil</li>\n<li>2- Pour (10 oz) of water over tea bag in a cup</li>\n<li>3- Cover and steep for 3-5 minutes</li>\n<li>4- Allow to slightly cool before drinking</li>\n</ul>\n<br>\n<ul class=\"steps-imgs\">\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\"></li>\n</ul>\n</li>\n<li id=\"tab3\">\n<p>Consult your licenses healthcare provider prior to use if you are pregnant, taking any medication or if you have any medical conditions.<br><br>All listed statements have not been evaluation by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease / medical conditions. <br>Recommended for adults only. <br><br>Formulated without :<br>GMOs / Gluten / Sugar or Sweeteners / Artificial Flavors or Dyes / Artificial Ingredients or Preservatives / Animal Products / Fish / Tree Nuts / Soy / Wheat or Dairy Products</p>\n</li>\n<li id=\"tab4\">\n<p>Antiviral / Antibacterial Properties</p>\n<p>Loaded with Anti-Inflammatory nutrients</p>\n<p>Naturally Helps Boost Immunity</p>\n<p>Calming and Soothing Effects</p>\n<p>Fights Nasal Congestion / Throat Irritation</p>\n<p>Helps Treat Indigestion</p>\n<p>Packed with Antioxidants</p>\n<p>Helps Reduce Muscle Spasms and Pain</p>\n<p> </p>\n</li>\n</ul>\n</div>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-immunit-immunity-stimulus-booster-kit-tea-30-servings-available-now-471239.jpg?v=1727799561",
+     "alt": "Baraguz ImmuniT - Immunity Stimulus / Booster Kit Tea (30 Servings) -  AVAILABLE NOW",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-immunit-immunity-stimulus-booster-kit-tea-30-servings-available-now-140356.jpg?v=1727799561",
+     "alt": "Baraguz ImmuniT - Immunity Stimulus / Booster Kit Tea (30 Servings) -  AVAILABLE NOW",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-immunit-immunity-stimulus-booster-kit-tea-30-servings-available-now-143533.jpg?v=1727799561",
+     "alt": "Baraguz ImmuniT - Immunity Stimulus / Booster Kit Tea (30 Servings) -  AVAILABLE NOW",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-immunit-immunity-stimulus-booster-kit-tea-30-servings-available-now-577857.png?v=1727799561",
+     "alt": "Baraguz ImmuniT - Immunity Stimulus / Booster Kit Tea (30 Servings) -  AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-immunit-immunity-stimulus-booster-kit-tea-30-servings-available-now-648282.jpg?v=1727799561",
+     "alt": "Baraguz ImmuniT - Immunity Stimulus / Booster Kit Tea (30 Servings) -  AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-immunit-immunity-stimulus-booster-kit-tea-30-servings-available-now-876384.jpg?v=1727799561",
+     "alt": "Baraguz ImmuniT - Immunity Stimulus / Booster Kit Tea (30 Servings) -  AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-immunit-immunity-stimulus-booster-kit-tea-30-servings-available-now-346179.jpg?v=1727799561",
+     "alt": "Baraguz ImmuniT - Immunity Stimulus / Booster Kit Tea (30 Servings) -  AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 43332948164856,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 4999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7828580991224,
+   "handle": "baraguz-fertilit-vitality-boost-fertility-support-30-servings",
+   "title": "Baraguz FertiliT - Vitality Boost / Fertility Support (30 Servings) - AVAILABLE NOW",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "herbalteas",
+    "shopbycategory"
+   ],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<ul class=\"tabs\">\n<li><a class=\"active\" href=\"#tab1\">INGREDIENTS</a></li>\n<li><a href=\"#tab2\">HOW TO USE</a></li>\n<li><a href=\"#tab3\">DECLARATIONS </a></li>\n<li><a href=\"#tab4\">BENEFITS </a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li class=\"active\" id=\"tab1\">\n<p><i>Serving Size 1 Tea Bag (Makes 10 fl oz) / Proprietary Blend of Herbs (3,000 mg)</i></p>\n<ul>\n<li>Red Rasberry Leaf</li>\n<li>Black Cohosh (Actaea Racemosa)</li>\n<li>Nettle Leaf </li>\n<li>Ginseng (Panax)</li>\n<li>Tribulus (Tribulus Terrestris)</li>\n<li>Peppermint Leaf</li>\n<li>Red Clover</li>\n<li>Maca Root</li>\n<li>Calendula</li>\n<li>Green Tea</li>\n</ul>\n<p>Each serving contains insignificant amounts of calories, saturated fat, trans fat, cholesterol, carbohydrates, dietary fiber, sugars, calcium, iron, protein, sodium. and potassium.</p>\n</li>\n<li id=\"tab2\">\n<p>Drink as needed, 1-2 hours after breakfast, lunch or dinner, while it’s still hot.</p>\n<ul>\n<li>1- Bring fresh water to a boil</li>\n<li>2- Pour (10 oz) of water over tea bag in a cup</li>\n<li>3- Cover and steep for 3-5 minutes</li>\n<li>4- Allow to slightly cool before drinking</li>\n</ul>\n<br>\n<ul class=\"steps-imgs\">\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\"></li>\n</ul>\n</li>\n<li id=\"tab3\">\n<p>Consult your licenses healthcare provider prior to use if you are pregnant, taking any medication or if you have any medical conditions.<br><br> All listed statements have not been evaluation by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease / medical conditions. <br> Recommended for adults only. <br><br> Formulated without :<br>GMOs / Gluten / Sugar or Sweeteners / Artificial Flavors or Dyes / Artificial Ingredients or Preservatives / Animal Products / Fish / Tree Nuts / Soy / Wheat or Dairy Products</p>\n</li>\n<li id=\"tab4\">\n<p>Helps Support Reproductive Health</p>\n<p>Packed with Fertility supporting Nutrients</p>\n<p>May Decrease Childbirth Risks</p>\n<p>May Help Improve Prostate Health</p>\n<p>Naturally Boost Fertility and Well-being</p>\n<p>May Reduce Menstrual Cramps</p>\n<p>May Help Shorten Labor</p>\n<p>Helps Reduce Tension and Inflammation</p>\n<p> </p>\n</li>\n</ul>\n</div>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-fertilit-vitality-boost-fertility-support-30-servings-available-now-742733.jpg?v=1727799560",
+     "alt": "Baraguz FertiliT - Vitality Boost / Fertility Support (30 Servings) - AVAILABLE NOW",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-fertilit-vitality-boost-fertility-support-30-servings-available-now-967127.jpg?v=1727799560",
+     "alt": "Baraguz FertiliT - Vitality Boost / Fertility Support (30 Servings) - AVAILABLE NOW",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-fertilit-vitality-boost-fertility-support-30-servings-available-now-197099.jpg?v=1727799560",
+     "alt": "Baraguz FertiliT - Vitality Boost / Fertility Support (30 Servings) - AVAILABLE NOW",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-fertilit-vitality-boost-fertility-support-30-servings-available-now-226321.png?v=1727799560",
+     "alt": "Baraguz FertiliT - Vitality Boost / Fertility Support (30 Servings) - AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-fertilit-vitality-boost-fertility-support-30-servings-available-now-595460.jpg?v=1727799560",
+     "alt": "Baraguz FertiliT - Vitality Boost / Fertility Support (30 Servings) - AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-fertilit-vitality-boost-fertility-support-30-servings-available-now-676465.jpg?v=1727799560",
+     "alt": "Baraguz FertiliT - Vitality Boost / Fertility Support (30 Servings) - AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-fertilit-vitality-boost-fertility-support-30-servings-available-now-322044.jpg?v=1727799560",
+     "alt": "Baraguz FertiliT - Vitality Boost / Fertility Support (30 Servings) - AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 43332906615032,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 4999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7828576010488,
+   "handle": "baraguz-anxiet-stress-therapy-tea-30-servings",
+   "title": "Baraguz AnxieT - Stress Therapy / Anxiety Relief Tea (30 Servings) - AVAILABLE NOW",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "herbalteas",
+    "shopbycategory"
+   ],
+   "descriptionHtml": "<div class=\"tabs-section\">\n<ul class=\"tabs\">\n<li><a class=\"active\" href=\"#tab1\" data-mce-href=\"#tab1\">INGREDIENTS</a></li>\n<li><a href=\"#tab2\" data-mce-href=\"#tab2\">HOW TO USE</a></li>\n<li><a href=\"#tab3\" data-mce-href=\"#tab3\">DECLARATIONS </a></li>\n<li><a href=\"#tab4\" data-mce-href=\"#tab4\">BENEFITS </a></li>\n</ul>\n<ul class=\"tabs-content\">\n<li class=\"active\" id=\"tab1\">\n<p><i>Serving Size 1 Tea Bag (Makes 10 fl oz) / Proprietary Blend of Herbs (3,000 mg)</i></p>\n<ul>\n<li>1- Rose Petals</li>\n<li>2- Linden;</li>\n<li>3- Oat Straw</li>\n<li>4- Lemon Balm</li>\n<li>5- Green Tea</li>\n<li>6- Peppermint Leaf</li>\n<li>7- Valerian (Valeriana Officinalis)</li>\n<li>8- Tulsi-Holy Basil Tea</li>\n<li>9- Turmeric</li>\n<li>10- Fennel Seeds</li>\n<li>11- Ginseng (Panax)</li>\n<li>12- Chamomile Flowers</li>\n<li>13- Skullcap</li>\n<li>14- Licorice Root</li>\n<li>15- Rhodiola Rosea</li>\n<li>16- Lavender Bulbs</li>\n<li>17- Gotu Kola (Centella Asiatica)</li>\n</ul>\n<p>Each serving contains insignificant amounts of calories, saturated fat, trans fat, cholesterol, carbohydrates, dietary fiber, sugars, calcium, iron, protein, sodium. and potassium.</p>\n</li>\n<li id=\"tab2\">\n<p>Drink as needed, 1-2 hours after breakfast, lunch or dinner, while it’s still hot.</p>\n<ul>\n<li>1- Bring fresh water to a boil</li>\n<li>2- Pour (10 oz) of water over tea bag in a cup</li>\n<li>3- Cover and steep for 3-5 minutes</li>\n<li>4- Allow to slightly cool before drinking</li>\n</ul>\n<br>\n<ul class=\"steps-imgs\">\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_1.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_2.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/step_3.jpg\"></li>\n<li><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/TEA_STEPS_HORIZ..jpg\"></li>\n</ul>\n</li>\n<li id=\"tab3\">\n<p>Consult your licenses healthcare provider prior to use if you are pregnant, taking any medication or if you have any medical conditions.<br><br>All listed statements have not been evaluation by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease / medical conditions. <br>Recommended for adults only. <br><br>Formulated without :<br>GMOs / Gluten / Sugar or Sweeteners / Artificial Flavors or Dyes / Artificial Ingredients or Preservatives / Animal Products / Fish / Tree Nuts / Soy / Wheat or Dairy Products</p>\n</li>\n<li id=\"tab4\">\n<p>Helps Promote Tranquility</p>\n<p>Supports Calm Response</p>\n<p>Quiets Racing Thoughts</p>\n<p>May Enhance Mental State</p>\n<p>Promotes Anxiousness Relief</p>\n<p>Natural Mood enhancer</p>\n<p>Helps Support Nervous System</p>\n<p>Cardiovascular Benefits</p>\n<p> </p>\n</li>\n</ul>\n</div>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-anxiet-stress-therapy-anxiety-relief-tea-30-servings-available-now-882784.jpg?v=1727799560",
+     "alt": "Baraguz AnxieT - Stress Therapy / Anxiety Relief Tea (30 Servings) - AVAILABLE NOW",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-anxiet-stress-therapy-anxiety-relief-tea-30-servings-available-now-739656.jpg?v=1727799560",
+     "alt": "Baraguz AnxieT - Stress Therapy / Anxiety Relief Tea (30 Servings) - AVAILABLE NOW",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-anxiet-stress-therapy-anxiety-relief-tea-30-servings-available-now-409571.jpg?v=1727799560",
+     "alt": "Baraguz AnxieT - Stress Therapy / Anxiety Relief Tea (30 Servings) - AVAILABLE NOW",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-anxiet-stress-therapy-anxiety-relief-tea-30-servings-available-now-472186.png?v=1727799560",
+     "alt": "Baraguz AnxieT - Stress Therapy / Anxiety Relief Tea (30 Servings) - AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-anxiet-stress-therapy-anxiety-relief-tea-30-servings-available-now-426488.jpg?v=1727799560",
+     "alt": "Baraguz AnxieT - Stress Therapy / Anxiety Relief Tea (30 Servings) - AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-anxiet-stress-therapy-anxiety-relief-tea-30-servings-available-now-651621.jpg?v=1727799560",
+     "alt": "Baraguz AnxieT - Stress Therapy / Anxiety Relief Tea (30 Servings) - AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-anxiet-stress-therapy-anxiety-relief-tea-30-servings-available-now-584335.jpg?v=1727799560",
+     "alt": "Baraguz AnxieT - Stress Therapy / Anxiety Relief Tea (30 Servings) - AVAILABLE NOW",
+     "width": 1201,
+     "height": 800
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 43332895146232,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 4999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7858697666808,
+   "handle": "baraguz-gift-card",
+   "title": "Baraguz Gift Card",
+   "vendor": "Baraguz",
+   "type": "Baraguz Gift Card",
+   "tags": [
+    "baraguz",
+    "baraguz gift cards"
+   ],
+   "descriptionHtml": "<p data-mce-fragment=\"1\">Looking for something to gift but are unsure of what to buy? Let them choose their health route themselves with a Baraguz gift card.</p>\n<p data-mce-fragment=\"1\">Gift cards are delivered by email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-gift-card-5855939.jpg?v=1759361380",
+     "alt": "Baraguz Gift Card",
+     "width": 1024,
+     "height": 1024
+    }
+   ],
+   "options": [
+    {
+     "name": "Denominations",
+     "values": [
+      "$10.00",
+      "$25.00",
+      "$50.00",
+      "$100.00",
+      "$150.00",
+      "$200.00",
+      "$250.00",
+      "$300.00"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 43436427837688,
+     "title": "$10.00",
+     "options": [
+      "$10.00"
+     ],
+     "price": 1000,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    },
+    {
+     "id": 43436427870456,
+     "title": "$25.00",
+     "options": [
+      "$25.00"
+     ],
+     "price": 2500,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    },
+    {
+     "id": 43436427903224,
+     "title": "$50.00",
+     "options": [
+      "$50.00"
+     ],
+     "price": 5000,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    },
+    {
+     "id": 43436427935992,
+     "title": "$100.00",
+     "options": [
+      "$100.00"
+     ],
+     "price": 10000,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    },
+    {
+     "id": 43436427968760,
+     "title": "$150.00",
+     "options": [
+      "$150.00"
+     ],
+     "price": 15000,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    },
+    {
+     "id": 43436428001528,
+     "title": "$200.00",
+     "options": [
+      "$200.00"
+     ],
+     "price": 20000,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    },
+    {
+     "id": 43436428034296,
+     "title": "$250.00",
+     "options": [
+      "$250.00"
+     ],
+     "price": 25000,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    },
+    {
+     "id": 43436428067064,
+     "title": "$300.00",
+     "options": [
+      "$300.00"
+     ],
+     "price": 30000,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7752283390200,
+   "handle": "baraguz-plant-based-supergreens-powder-with-enzymes-probiotics",
+   "title": "Baraguz Plant Based Supergreens Powder With Enzymes & Probiotics",
+   "vendor": "Baraguz",
+   "type": "Vitamins & Supplements",
+   "tags": [
+    "enzyme",
+    "enzymes",
+    "probiotics",
+    "Supergreen powder",
+    "supergreens",
+    "supplements"
+   ],
+   "descriptionHtml": "<p>Baraguz Plant Based Supergreens Powder combines nutrient-dense greens with enzymes and probiotics for optimal digestion and health. This delicious blend supports energy levels, boosts immunity, and promotes overall wellness. Elevate your daily routine with a scoop of vibrant, plant-powered nutrition!</p>\n<p><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/superfood_green_description_logo_480x480.png?v=1658199787\" alt=\"\"></p>\n<p>70+ Plant-Based Superfoods </p>\n<p> </p>\n<p> </p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-plant-based-supergreens-powder-with-enzymes-probiotics-355771.jpg?v=1727800092",
+     "alt": "Baraguz Plant Based Supergreens Powder With Enzymes & Probiotics",
+     "width": 1300,
+     "height": 1300
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-plant-based-supergreens-powder-with-enzymes-probiotics-324046.jpg?v=1727800092",
+     "alt": "Baraguz Plant Based Supergreens Powder With Enzymes & Probiotics",
+     "width": 1300,
+     "height": 1300
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-plant-based-supergreens-powder-with-enzymes-probiotics-752558.jpg?v=1727800092",
+     "alt": "Baraguz Plant Based Supergreens Powder With Enzymes & Probiotics",
+     "width": 1300,
+     "height": 1300
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-plant-based-supergreens-powder-with-enzymes-probiotics-369530.jpg?v=1727800092",
+     "alt": "Baraguz Plant Based Supergreens Powder With Enzymes & Probiotics",
+     "width": 1500,
+     "height": 1500
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 43057503338744,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3499,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [
+    {
+     "id": 2995224824,
+     "name": "Every month",
+     "percentOff": 15,
+     "interval": "month",
+     "intervalCount": 1
+    },
+    {
+     "id": 3015016696,
+     "name": "Every 2 Months",
+     "percentOff": 8,
+     "interval": "month",
+     "intervalCount": 2
+    },
+    {
+     "id": 3015049464,
+     "name": "Every 3 Months",
+     "percentOff": 5,
+     "interval": "month",
+     "intervalCount": 3
+    }
+   ],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7595310022904,
+   "handle": "baraguz-candy-red-premium-flask",
+   "title": "Baraguz (Candy Red) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "flask"
+   ],
+   "descriptionHtml": "<p><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\" alt=\"\"></p>\n<p>Description :<br><br>- 40 oz (1.18 L)<br>- Durable Powder Coat Finish<br>- 18/8 Stainless Steel<br>- 24 Hours Cold<br>- 12 Hours Hot<br>- Double Wall Insulation<br>- BPA Free<br><br>* Do not Microwave / Dishwasher Safe</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-candy-red-premium-flask-40-oz-wide-mouth-w-straw-lid-679281.jpg?v=1727800095",
+     "alt": "Baraguz (Candy Red) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1356,
+     "height": 1213
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-candy-red-premium-flask-40-oz-wide-mouth-w-straw-lid-321669.jpg?v=1727800096",
+     "alt": "Baraguz (Candy Red) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1600,
+     "height": 1066
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 42493156196600,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3999,
+     "compareAtPrice": null,
+     "available": false,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7595309433080,
+   "handle": "baraguz-orchid-purple-premium-flask",
+   "title": "Baraguz (Orchid Purple) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "flask"
+   ],
+   "descriptionHtml": "<p><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\"></p>\n<p>Description :<br><br>- 40 oz (1.18 L)<br>- Durable Powder Coat Finish<br>- 18/8 Stainless Steel<br>- 24 Hours Cold<br>- 12 Hours Hot<br>- Double Wall Insulation<br>- BPA Free<br><br>* Do not Microwave / Dishwasher Safe</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-orchid-purple-premium-flask-40-oz-wide-mouth-w-straw-lid-921337.jpg?v=1727800086",
+     "alt": "Baraguz (Orchid Purple) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1356,
+     "height": 1213
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-orchid-purple-premium-flask-40-oz-wide-mouth-w-straw-lid-816179.jpg?v=1727800086",
+     "alt": "Baraguz (Orchid Purple) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1600,
+     "height": 1066
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 42493153837304,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7595309007096,
+   "handle": "baraguz-white-ice-premium-flask",
+   "title": "Baraguz (White Ice) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "flask"
+   ],
+   "descriptionHtml": "<p><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\"></p>\n<p>Description :<br><br>- 40 oz (1.18 L)<br>- Durable Powder Coat Finish<br>- 18/8 Stainless Steel<br>- 24 Hours Cold<br>- 12 Hours Hot<br>- Double Wall Insulation<br>- BPA Free<br><br>* Do not Microwave / Dishwasher Safe</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-white-ice-premium-flask-40-oz-wide-mouth-w-straw-lid-679704.jpg?v=1727800094",
+     "alt": "Baraguz (White Ice) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1356,
+     "height": 1213
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-white-ice-premium-flask-40-oz-wide-mouth-w-straw-lid-462657.jpg?v=1727800094",
+     "alt": "Baraguz (White Ice) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1600,
+     "height": 1066
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 42493153018104,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7595308450040,
+   "handle": "baraguz-daisy-white-premium-flask",
+   "title": "Baraguz (Daisy White) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "flask"
+   ],
+   "descriptionHtml": "<p><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\"></p>\n<p>Description :<br><br>- 40 oz (1.18 L)<br>- Durable Powder Coat Finish<br>- 18/8 Stainless Steel<br>- 24 Hours Cold<br>- 12 Hours Hot<br>- Double Wall Insulation<br>- BPA Free<br><br>* Do not Microwave / Dishwasher Safe</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-daisy-white-premium-flask-40-oz-wide-mouth-w-straw-lid-552012.jpg?v=1727799594",
+     "alt": "Baraguz (Daisy White) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1356,
+     "height": 1213
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-daisy-white-premium-flask-40-oz-wide-mouth-w-straw-lid-129131.jpg?v=1727799594",
+     "alt": "Baraguz (Daisy White) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1600,
+     "height": 1066
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 42493150068984,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7595307827448,
+   "handle": "baraguz-raven-black-black-w-purple-premium-flask",
+   "title": "Baraguz (Raven Black) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "flask"
+   ],
+   "descriptionHtml": "<p><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\"></p>\n<p>Description :<br><br>- 40 oz (1.18 L)<br>- Durable Powder Coat Finish<br>- 18/8 Stainless Steel<br>- 24 Hours Cold<br>- 12 Hours Hot<br>- Double Wall Insulation<br>- BPA Free<br><br>* Do not Microwave / Dishwasher Safe</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-raven-black-premium-flask-40-oz-wide-mouth-w-straw-lid-559488.jpg?v=1727800093",
+     "alt": "Baraguz (Raven Black) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1356,
+     "height": 1213
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-raven-black-premium-flask-40-oz-wide-mouth-w-straw-lid-735901.jpg?v=1727800093",
+     "alt": "Baraguz (Raven Black) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1600,
+     "height": 1066
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 42493147971832,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7595307335928,
+   "handle": "baraguz-sunset-dream-multi-color-premium-flask",
+   "title": "Baraguz (Sunset Dream) Premium Flask - 40 oz Wide Mouth w/ Straw Lid (SOLD OUT)",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "flask"
+   ],
+   "descriptionHtml": "<p><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\"></p>\n<p>Description :<br><br>- 40 oz (1.18 L)<br>- Durable Powder Coat Finish<br>- 18/8 Stainless Steel<br>- 24 Hours Cold<br>- 12 Hours Hot<br>- Double Wall Insulation<br>- BPA Free<br><br>* Do not Microwave / Dishwasher Safe</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-sunset-dream-premium-flask-40-oz-wide-mouth-w-straw-lid-sold-out-252804.jpg?v=1727799592",
+     "alt": "Baraguz (Sunset Dream) Premium Flask - 40 oz Wide Mouth w/ Straw Lid (SOLD OUT)",
+     "width": 1356,
+     "height": 1213
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-sunset-dream-premium-flask-40-oz-wide-mouth-w-straw-lid-sold-out-819671.jpg?v=1727799592",
+     "alt": "Baraguz (Sunset Dream) Premium Flask - 40 oz Wide Mouth w/ Straw Lid (SOLD OUT)",
+     "width": 1600,
+     "height": 1066
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 42493146431736,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3999,
+     "compareAtPrice": null,
+     "available": false,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7595306909944,
+   "handle": "baraguz-bubblegum-pink-premium-flask",
+   "title": "Baraguz (Bubblegum Pink) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "flask"
+   ],
+   "descriptionHtml": "<p><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\"></p>\n<p>Description :<br><br>- 40 oz (1.18 L)<br>- Durable Powder Coat Finish<br>- 18/8 Stainless Steel<br>- 24 Hours Cold<br>- 12 Hours Hot<br>- Double Wall Insulation<br>- BPA Free<br><br>* Do not Microwave / Dishwasher Safe</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-bubblegum-pink-premium-flask-40-oz-wide-mouth-w-straw-lid-535946.jpg?v=1727800095",
+     "alt": "Baraguz (Bubblegum Pink) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1356,
+     "height": 1213
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-bubblegum-pink-premium-flask-40-oz-wide-mouth-w-straw-lid-550788.jpg?v=1727800095",
+     "alt": "Baraguz (Bubblegum Pink) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1600,
+     "height": 1066
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 42493145415928,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7595306451192,
+   "handle": "baraguz-slate-grey-premium-flask",
+   "title": "Baraguz (Slate Grey) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "flask"
+   ],
+   "descriptionHtml": "<p><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\"></p>\n<p>Description :<br><br>- 40 oz (1.18 L)<br>- Durable Powder Coat Finish<br>- 18/8 Stainless Steel<br>- 24 Hours Cold<br>- 12 Hours Hot<br>- Double Wall Insulation<br>- BPA Free<br><br>* Do not Microwave / Dishwasher Safe</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slate-grey-premium-flask-40-oz-wide-mouth-w-straw-lid-791805.jpg?v=1727800094",
+     "alt": "Baraguz (Slate Grey) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1356,
+     "height": 1213
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-slate-grey-premium-flask-40-oz-wide-mouth-w-straw-lid-694173.jpg?v=1727800094",
+     "alt": "Baraguz (Slate Grey) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1600,
+     "height": 1066
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 42493143646456,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7595305894136,
+   "handle": "baraguz-sky-blue-premium-flask",
+   "title": "Baraguz (Sky Blue) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "flask"
+   ],
+   "descriptionHtml": "<p><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\"></p>\n<p>Description :<br><br>- 40 oz (1.18 L)<br>- Durable Powder Coat Finish<br>- 18/8 Stainless Steel<br>- 24 Hours Cold<br>- 12 Hours Hot<br>- Double Wall Insulation<br>- BPA Free<br><br>* Do not Microwave / Dishwasher Safe</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-sky-blue-premium-flask-40-oz-wide-mouth-w-straw-lid-131537.jpg?v=1727799561",
+     "alt": "Baraguz (Sky Blue) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1356,
+     "height": 1213
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-sky-blue-premium-flask-40-oz-wide-mouth-w-straw-lid-343369.jpg?v=1727799561",
+     "alt": "Baraguz (Sky Blue) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1600,
+     "height": 1066
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 42493142204664,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7595305304312,
+   "handle": "baraguz-arctic-blue-premium-flask",
+   "title": "Baraguz (Arctic Blue) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "flask",
+    "premium flask",
+    "water bottles"
+   ],
+   "descriptionHtml": "<p><img alt=\"\" src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\"></p>\n<p>Description :<br><br>- 40 oz (1.18 L)<br>- Durable Powder Coat Finish<br>- 18/8 Stainless Steel<br>- 24 Hours Cold<br>- 12 Hours Hot<br>- Double Wall Insulation<br>- BPA Free<br><br>* Do not Microwave / Dishwasher Safe</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-arctic-blue-premium-flask-40-oz-wide-mouth-w-straw-lid-872622.jpg?v=1727799592",
+     "alt": "Baraguz (Arctic Blue) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1356,
+     "height": 1213
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-arctic-blue-premium-flask-40-oz-wide-mouth-w-straw-lid-418118.jpg?v=1727799592",
+     "alt": "Baraguz (Arctic Blue) Premium Flask - 40 oz Wide Mouth w/ Straw Lid",
+     "width": 1600,
+     "height": 1066
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 42493136044280,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7595293802744,
+   "handle": "baraguz-onyx-black-premium-flask",
+   "title": "Baraguz (Onyx Black) Premium Flask - 40 oz Wide Mouth w/ Straw Lid (SOLD OUT)",
+   "vendor": "Baraguz",
+   "type": "",
+   "tags": [
+    "flask"
+   ],
+   "descriptionHtml": "<p><img src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\" alt=\"\" data-mce-fragment=\"1\" data-mce-src=\"https://cdn.shopify.com/s/files/1/0613/5526/2200/files/DESCRIPTION_480x480.png?v=1645757682\"></p>\n<p>Description :<br><br>- 40 oz (1.18 L)<br>- Durable Powder Coat Finish<br>- 18/8 Stainless Steel<br>- 24 Hours Cold<br>- 12 Hours Hot<br>- Double Wall Insulation<br>- BPA Free<br><br>* Do not Microwave / Dishwasher Safe</p>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-onyx-black-premium-flask-40-oz-wide-mouth-w-straw-lid-sold-out-764525.jpg?v=1727800088",
+     "alt": "Baraguz (Onyx Black) Premium Flask - 40 oz Wide Mouth w/ Straw Lid (SOLD OUT)",
+     "width": 1356,
+     "height": 1213
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/baraguz-onyx-black-premium-flask-40-oz-wide-mouth-w-straw-lid-sold-out-117493.jpg?v=1727800088",
+     "alt": "Baraguz (Onyx Black) Premium Flask - 40 oz Wide Mouth w/ Straw Lid (SOLD OUT)",
+     "width": 1600,
+     "height": 1066
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 42493097672952,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 3999,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  },
+  {
+   "id": 7483168719096,
+   "handle": "super-green",
+   "title": "Matcha Premium Ceremonial Green Tea Powder - 100g (3.5 oz)",
+   "vendor": "Baraguz SlimT",
+   "type": "Tea & Infusions",
+   "tags": [
+    "matcha"
+   ],
+   "descriptionHtml": "<p style=\"background: white; margin: 0in 0in 18.75pt 0in;\"><span style=\"font-family: 'Arial',sans-serif; color: #2d4a10;\">Premium Ceremonial Matcha is a true 1st harvest ceremonial matcha, shade grown and hand-picked in early spring for the most vibrant and tender tea leaves. Our Premium Matcha undergoes a second selection by hand to sort the best leaves. It is then stone-ground to preserve color flavor, L-Theanine, catechins, and chlorophyll. Expect a delicate flavor, bright color, and extremely fine texture.</span><span style=\"font-family: 'Arial',sans-serif; color: #1c1d1d;\"></span></p>\n<p style=\"background: white; margin: 0in 0in 18.75pt 0in;\"> </p>\n<span style=\"box-sizing: border-box;\"></span>",
+   "images": [
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/matcha-premium-ceremonial-green-tea-powder-100g-35-oz-270517.jpg?v=1727799563",
+     "alt": "Matcha Premium Ceremonial Green Tea Powder - 100g (3.5 oz)",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/matcha-premium-ceremonial-green-tea-powder-100g-35-oz-222101.jpg?v=1727799563",
+     "alt": "Matcha Premium Ceremonial Green Tea Powder - 100g (3.5 oz)",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/matcha-premium-ceremonial-green-tea-powder-100g-35-oz-985841.jpg?v=1727799563",
+     "alt": "Matcha Premium Ceremonial Green Tea Powder - 100g (3.5 oz)",
+     "width": 2048,
+     "height": 1506
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/matcha-premium-ceremonial-green-tea-powder-100g-35-oz-373394.jpg?v=1727799563",
+     "alt": "Matcha Premium Ceremonial Green Tea Powder - 100g (3.5 oz)",
+     "width": 1600,
+     "height": 1066
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/matcha-premium-ceremonial-green-tea-powder-100g-35-oz-874401.jpg?v=1727799563",
+     "alt": "Matcha Premium Ceremonial Green Tea Powder - 100g (3.5 oz)",
+     "width": 2048,
+     "height": 1365
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/matcha-premium-ceremonial-green-tea-powder-100g-35-oz-899397.jpg?v=1727799563",
+     "alt": "Matcha Premium Ceremonial Green Tea Powder - 100g (3.5 oz)",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/matcha-premium-ceremonial-green-tea-powder-100g-35-oz-669586.jpg?v=1727799563",
+     "alt": "Matcha Premium Ceremonial Green Tea Powder - 100g (3.5 oz)",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/matcha-premium-ceremonial-green-tea-powder-100g-35-oz-852052.jpg?v=1727799563",
+     "alt": "Matcha Premium Ceremonial Green Tea Powder - 100g (3.5 oz)",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/matcha-premium-ceremonial-green-tea-powder-100g-35-oz-429296.jpg?v=1727799563",
+     "alt": "Matcha Premium Ceremonial Green Tea Powder - 100g (3.5 oz)",
+     "width": 1080,
+     "height": 1080
+    },
+    {
+     "src": "https://cdn.shopify.com/s/files/1/0613/5526/2200/files/matcha-premium-ceremonial-green-tea-powder-100g-35-oz-415093.jpg?v=1727799563",
+     "alt": "Matcha Premium Ceremonial Green Tea Powder - 100g (3.5 oz)",
+     "width": 1080,
+     "height": 1080
+    }
+   ],
+   "options": [
+    {
+     "name": "Title",
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 42140251357432,
+     "title": "Default Title",
+     "options": [
+      "Default Title"
+     ],
+     "price": 6499,
+     "compareAtPrice": null,
+     "available": true,
+     "sku": null
+    }
+   ],
+   "sellingPlans": [],
+   "requiresSellingPlan": false
+  }
+ ],
+ "collections": [
+  {
+   "handle": "all",
+   "title": "All products",
+   "productHandles": [
+    "baraguz-meno-feminine-harmony-blend-herbal-tea-w-raspberry-leaf-chamomile-ashwagandha-30-tea-bags",
+    "baraguz-braint-brain-health-tea",
+    "baraguz-diabet-diabetes-support-sugar-balance-tea-30-servings",
+    "baraguz-premium-bovine-collagen-peptides-type-i-iii-collagen-powder",
+    "baraguz-slimt-night-cleanse",
+    "baraguz-thyroid-metabolic-balance-herbal-tea-w-ashwagandha-tulsi-lemon-balm-30-pyramid-tea-bags",
+    "baraguz-slimt-day-booster-28-day-detox",
+    "baraguz-eia-organic-growth-glow-ritual-bundle",
+    "baraguz-organic-nail-growth-elixir",
+    "postpartum-recovery-wellness-bundle-collagen-hair-growth-oil-focus-detox",
+    "glow-grow-hair-growth-bundle-with-collagen-kit",
+    "collagen-pms-relief-bundle-menstrual-support-tea-beauty-boost",
+    "brain-focus-tea-bundle-cognitive-support-mental-clarity",
+    "baraguz-gut-health-plus-bundle",
+    "bundle-with-eia-hair-oil-hair-serum-and-hair-massager-comb-and-brush-set",
+    "eia-bamboo-comb",
+    "eia-collagen-and-ha-lip-and-eye-mask",
+    "eia-bamboo-scalp-massager",
+    "eia-bamboo-paddle-hair-brush",
+    "bundle-of-eia-bamboo-scalp-massager-paddle-brush-and-comb",
+    "eia-organic-scalp-treatment-elixir-oil-hair-growth",
+    "eia-organic-revitalizing-elixir-serum-hair-glow",
+    "eia-organic-elixir-oil-and-serum-bundle-hair-growth-glow",
+    "baraguz-slimt-the-pro-kit",
+    "baraguz-slimt-detox-trifecta-the-karen-combo-boosted",
+    "baraguz-slimt-detox-trifecta-the-karen-combo",
+    "baraguz-pmst-menstrual-care-cycle-formula-tea-30-servings",
+    "baraguz-maternit-lactation-support-optimal-milk-supply-30-servings",
+    "baraguz-anxiet-immunity-stimulus-booster-kit-tea-30-servings",
+    "baraguz-fertilit-vitality-boost-fertility-support-30-servings",
+    "baraguz-anxiet-stress-therapy-tea-30-servings",
+    "baraguz-gift-card",
+    "baraguz-plant-based-supergreens-powder-with-enzymes-probiotics",
+    "baraguz-candy-red-premium-flask",
+    "baraguz-orchid-purple-premium-flask",
+    "baraguz-white-ice-premium-flask",
+    "baraguz-daisy-white-premium-flask",
+    "baraguz-raven-black-black-w-purple-premium-flask",
+    "baraguz-sunset-dream-multi-color-premium-flask",
+    "baraguz-bubblegum-pink-premium-flask",
+    "baraguz-slate-grey-premium-flask",
+    "baraguz-sky-blue-premium-flask",
+    "baraguz-arctic-blue-premium-flask",
+    "baraguz-onyx-black-premium-flask",
+    "super-green"
+   ]
+  },
+  {
+   "handle": "best-sellers",
+   "title": "Best Sellers New",
+   "productHandles": [
+    "collagen-pms-relief-bundle-menstrual-support-tea-beauty-boost",
+    "baraguz-slimt-detox-trifecta-the-karen-combo",
+    "baraguz-slimt-detox-trifecta-the-karen-combo-boosted",
+    "baraguz-slimt-the-pro-kit",
+    "baraguz-slimt-day-booster-28-day-detox",
+    "baraguz-plant-based-supergreens-powder-with-enzymes-probiotics",
+    "brain-focus-tea-bundle-cognitive-support-mental-clarity",
+    "eia-organic-scalp-treatment-elixir-oil-hair-growth",
+    "super-green",
+    "baraguz-fertilit-vitality-boost-fertility-support-30-servings",
+    "baraguz-anxiet-stress-therapy-tea-30-servings",
+    "baraguz-anxiet-immunity-stimulus-booster-kit-tea-30-servings",
+    "baraguz-pmst-menstrual-care-cycle-formula-tea-30-servings",
+    "baraguz-slimt-night-cleanse",
+    "baraguz-premium-bovine-collagen-peptides-type-i-iii-collagen-powder",
+    "baraguz-diabet-diabetes-support-sugar-balance-tea-30-servings",
+    "baraguz-braint-brain-health-tea",
+    "baraguz-meno-feminine-harmony-blend-herbal-tea-w-raspberry-leaf-chamomile-ashwagandha-30-tea-bags"
+   ]
+  },
+  {
+   "handle": "detox-teas-calming-energy",
+   "title": "DETOX TEAS (CALMING + ENERGY)",
+   "productHandles": [
+    "baraguz-slimt-day-booster-28-day-detox",
+    "baraguz-slimt-night-cleanse"
+   ]
+  },
+  {
+   "handle": "health-herbal-teas",
+   "title": "Health Herbal Teas",
+   "productHandles": [
+    "baraguz-anxiet-stress-therapy-tea-30-servings",
+    "baraguz-fertilit-vitality-boost-fertility-support-30-servings",
+    "baraguz-pmst-menstrual-care-cycle-formula-tea-30-servings",
+    "eia-organic-elixir-oil-and-serum-bundle-hair-growth-glow",
+    "eia-organic-scalp-treatment-elixir-oil-hair-growth",
+    "baraguz-anxiet-immunity-stimulus-booster-kit-tea-30-servings",
+    "baraguz-maternit-lactation-support-optimal-milk-supply-30-servings",
+    "eia-organic-revitalizing-elixir-serum-hair-glow",
+    "baraguz-braint-brain-health-tea",
+    "baraguz-diabet-diabetes-support-sugar-balance-tea-30-servings"
+   ]
+  },
+  {
+   "handle": "hair-skin-nails",
+   "title": "Hair, Skin & Nails",
+   "productHandles": [
+    "eia-organic-scalp-treatment-elixir-oil-hair-growth",
+    "eia-organic-elixir-oil-and-serum-bundle-hair-growth-glow",
+    "glow-grow-hair-growth-bundle-with-collagen-kit",
+    "baraguz-premium-bovine-collagen-peptides-type-i-iii-collagen-powder",
+    "baraguz-organic-nail-growth-elixir",
+    "baraguz-eia-organic-growth-glow-ritual-bundle",
+    "bundle-with-eia-hair-oil-hair-serum-and-hair-massager-comb-and-brush-set"
+   ]
+  },
+  {
+   "handle": "bundles",
+   "title": "Health & Wellness Bundles",
+   "productHandles": [
+    "baraguz-slimt-the-pro-kit",
+    "baraguz-slimt-detox-trifecta-the-karen-combo-boosted",
+    "baraguz-slimt-detox-trifecta-the-karen-combo"
+   ]
+  }
+ ]
+}

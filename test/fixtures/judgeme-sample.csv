@@ -1,0 +1,6 @@
+title,body,rating,review_date,source,curated,reviewer_name,reviewer_email,product_id,product_handle,reply,reply_date,picture_urls,ip_address,location,metaobject_handle,verified_buyer
+"Calm mornings","Fictional review for tests. Tastes clean, ""no bitterness"", and the bags hold up.",5,2026-09-02 10:12:00 UTC,web,ok,Jordan Testerson,jordan@example.test,1,baraguz-slimt-day-booster-28-day-detox,"Thank you, Jordan!",2026-09-03,https://example.test/a.jpg,203.0.113.7,US,,true
+"Hidden one","Fictional review held for moderation.",4,2026-09-05 08:00:00 UTC,web,not-yet,Casey Example,casey@example.test,1,baraguz-slimt-day-booster-28-day-detox,,,,198.51.100.4,US,,false
+"Just OK","Fictional review
+over two lines.",3,2026-08-20 12:00:00 UTC,import,ok,riley@example.test,riley@example.test,2,baraguz-gift-card,,,,192.0.2.1,US,,false
+"No product","Fictional review without a product handle.",5,2026-08-21 12:00:00 UTC,web,ok,Sam,sam@example.test,3,,,,,192.0.2.2,US,,true
