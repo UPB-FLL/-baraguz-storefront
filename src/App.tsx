@@ -1,5 +1,6 @@
 import { useEffect } from 'react';
 import { Route, Routes, useLocation } from 'react-router-dom';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { CartProvider } from './lib/cart';
 import { metaFor } from './lib/meta';
 import { Header } from './components/Header';
@@ -43,6 +44,7 @@ export function App() {
       </main>
       <Footer />
       <CartDrawer />
+      <SpeedInsights />
     </CartProvider>
   );
 }
